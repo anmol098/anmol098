@@ -1,4 +1,4 @@
-name: Waka Readme
+name: Update stats
 
 on:
   schedule:
