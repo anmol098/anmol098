@@ -21,12 +21,12 @@ const anmol = {
                     css: ["materialize", "vuetify", "bootstrap"]
                 },
                 backEnd: {
-                    js: ["node", "express"],
+                    js: ["node", "express","SuiteScript"],
                     python: ["flask"]
                 },
                 devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
                 databases: ["mongo", "MySql", "sqlite"],
-                misc: ["Firebase", "selenium", "open-cv", "php", "SuiteScript"]
+                misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
             },
             architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
             currentProject: "I am developing Extension for NetSuite using SuiteScript2.0",
