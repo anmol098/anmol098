@@ -13,10 +13,10 @@
 ```javascript
 const anmol = {
   pronouns: "he" | "his",
-  code: [Javascript, Typescript, Python, Java],
-  tools: [Vue, Nuxt, Node, SuiteScript, flask, MySql, MongoDb, "Docker🐳", "firebase🔥"],
+  code: ["Javascript", "Typescript", "Python", "Java"],
+  tools: ["Vue", "Nuxt", "Node", "SuiteScript", "flask", "MySql", "MongoDb", "Docker🐳", "firebase🔥"],
   architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-  devops:[AWS_cloud, Route53, Nginx],
+  devops:["AWS", "Route53", "Nginx"],
   currentProject: "I am developing Extension for NetSuite using SuiteScript2.0",
   funFact:"There are two ways to write error-free programs; only the third one works"
 }
