@@ -41,6 +41,7 @@ const anmol = {
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-
+JavaScript  1 hr 12 mins        ██████████████░░░░░░░░░░░   59.43 
+Markdown    49 mins             ██████████░░░░░░░░░░░░░░░   40.57
 ```
 <!--END_SECTION:waka-->
