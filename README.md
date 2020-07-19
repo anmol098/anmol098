@@ -42,8 +42,6 @@ const anmol = {
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-⌚︎ Timezone: Asia/Calcutta
-
 💬 Languages: 
 JavaScript               5 hrs 26 mins       ███████████████░░░░░░░░░░   61.97% 
 PHP                      1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.07% 
