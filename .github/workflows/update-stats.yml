@@ -18,5 +18,5 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_OS: "True"
           SHOW_PROJECTS: "True"
-          SHOW_TIMEZONE: "True"
+          SHOW_TIMEZONE: "False"
           SHOW_EDITORS: "False"
