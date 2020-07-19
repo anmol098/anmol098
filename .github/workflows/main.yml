@@ -4,6 +4,9 @@ on:
   schedule:
     # Runs at 12am UTC & 12am IST
     - cron: '30 18 * * *'
+  push:
+    branches:
+      - master
 
 jobs:
   update-readme:
