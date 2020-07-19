@@ -66,6 +66,5 @@ denAPI                   40 mins             ██░░░░░░░░░�
 💻 Operating Systems: 
 Windows                  8 hrs 46 mins       █████████████████████████   100.0%
 
-
-truetruetruetrue```
+```
 <!--END_SECTION:waka-->
