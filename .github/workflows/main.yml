@@ -3,7 +3,7 @@ name: Waka Readme
 on:
   schedule:
     # Runs at 12am UTC
-    - cron: '0 0 * * *'
+    - cron: '*/5 * * * *'
 
 jobs:
   update-readme:
@@ -13,3 +13,7 @@ jobs:
       - uses: anmol098/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_OS: true
+          SHOW_PROJECTS: true
+          SHOW_TIMEZONE: true
+          SHOW_EDITORS: false
