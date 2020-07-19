@@ -41,7 +41,8 @@ const anmol = {
 ---
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
-```⌚︎ Timezone: Asia/Calcutta
+```text
+⌚︎ Timezone: Asia/Calcutta
 
 💬 Languages: 
 JavaScript               5 hrs 26 mins       ███████████████░░░░░░░░░░   61.97% 
@@ -65,5 +66,6 @@ denAPI                   40 mins             ██░░░░░░░░░�
 💻 Operating Systems: 
 Windows                  8 hrs 46 mins       █████████████████████████   100.0%
 
-```
+
+truetruetruetrue```
 <!--END_SECTION:waka-->
