@@ -16,7 +16,7 @@ jobs:
       - uses: anmol098/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_OS: true
-          SHOW_PROJECTS: true
-          SHOW_TIMEZONE: true
-          SHOW_EDITORS: false
+          SHOW_OS: True
+          SHOW_PROJECTS: True
+          SHOW_TIMEZONE: True
+          SHOW_EDITORS: False
