@@ -4,13 +4,16 @@ on:
   schedule:
     # Runs at 18:30pm UTC & 12am IST
     - cron: '30 18 * * *'
+  push:
+    branches:
+      - master
 
 jobs:
   update-readme:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: anmol098/waka-readme-stats@dev
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_OS: "True"
