@@ -74,4 +74,4 @@ Windows                  17 hrs 5 mins       ███████████�
 ```
 <!--END_SECTION:waka-->
 
-**These Readme stats are generated using library [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
