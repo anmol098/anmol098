@@ -4,6 +4,9 @@ on:
   schedule:
     # Runs at 18:30pm UTC & 12am IST
     - cron: '30 18 * * *'
+  push:
+    branches:
+      - master
 
 jobs:
   update-readme:
@@ -12,5 +15,4 @@ jobs:
     steps:
       - uses: anmol098/waka-readme-stats@dev
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_PROJECTS: "False"
+          SHOW_COMMIT: "True"
