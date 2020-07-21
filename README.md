@@ -72,7 +72,6 @@ PhpStorm                 2 hrs 28 mins       ███░░░░░░░░�
 Windows                  17 hrs 5 mins       █████████████████████████   100.0%
 
 ```
-
-
 <!--END_SECTION:waka-->
-#####These Readme stats are generated using library [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)
+
+**These Readme stats are generated using library [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
