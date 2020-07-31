@@ -4,6 +4,9 @@ on:
   schedule:
     # Runs at 20:30pm UTC & 2:00am IST
     - cron: '0 0 * * *'
+  push:
+    branches: 
+      - master
   
 jobs:
   update-readme:
@@ -15,4 +18,5 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_PROJECTS: "False"
-          SHOW_LINES_OF_CODE: "TRUE"
+          SHOW_DAYS_OF_WEEK: "False"
+          SHOW_LOC_CHART: "F"
