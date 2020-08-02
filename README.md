@@ -42,20 +42,26 @@ const anmol = {
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2194-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-0.00%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-2.6 million%20Lines%20of%20code-blue)
 
-** 🐱 My GitHub Data ** 
+**🐱 My GitHub Data** 
 
 > 🏆 424 Contributions in year 2020
+ > 
 > 📦 Used 292.3 kB in GitHub's Storage 
+ > 
 > 💼 Opted to Hire
+ > 
 > 📜 25 Public Repository 
-> 🔑 15 Owned Private Repository**I'm a night 🦉** 
+ > 
+> 🔑 15 Owned Private Repository 
+
+**I'm a night 🦉** 
 
 ```text
 🌞 Morning    58 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.78% 
-🌆 Daytime    143 commits    ████████░░░░░░░░░░░░░░░░░   33.97% 
-🌃 Evening    109 commits    ██████░░░░░░░░░░░░░░░░░░░   25.89% 
+🌆 Daytime    142 commits    ████████░░░░░░░░░░░░░░░░░   33.73% 
+🌃 Evening    110 commits    ██████░░░░░░░░░░░░░░░░░░░   26.13% 
 🌙 Night      111 commits    ██████░░░░░░░░░░░░░░░░░░░   26.37%
 
 ```
