@@ -40,9 +40,9 @@ const anmol = {
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2194-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2195-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-2.6 million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-2.6%20million%20Lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -60,8 +60,8 @@ const anmol = {
 
 ```text
 🌞 Morning    58 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.78% 
-🌆 Daytime    142 commits    ████████░░░░░░░░░░░░░░░░░   33.73% 
-🌃 Evening    110 commits    ██████░░░░░░░░░░░░░░░░░░░   26.13% 
+🌆 Daytime    141 commits    ████████░░░░░░░░░░░░░░░░░   33.49% 
+🌃 Evening    111 commits    ██████░░░░░░░░░░░░░░░░░░░   26.37% 
 🌙 Night      111 commits    ██████░░░░░░░░░░░░░░░░░░░   26.37%
 
 ```
