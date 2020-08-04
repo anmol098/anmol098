@@ -52,11 +52,6 @@ const anmol = {
  > 
 > 🔑 0 Owned Private Repository 
  > 
-📊 **This week I spent my time on** 
-
-```text
-```
-
 
 <!--END_SECTION:waka-->
 
