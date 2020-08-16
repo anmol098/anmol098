@@ -40,11 +40,11 @@ const anmol = {
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1386-blue)
+![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-1380-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-2.8%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/De%20Hello%20World%2C%20j%27ai%20%C3%A9crit-2.7%20million%20Lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 Mes données GitHub** 
 
 > 🏆 500 contributions en 2020
  > 
@@ -65,7 +65,7 @@ const anmol = {
 🌙 Nuit       111 commits    ██████░░░░░░░░░░░░░░░░░░░   24.29%
 
 ```
-📅 **I'm Most Productive on dimanches** 
+📅 **Je suis le plus productif dimanche** 
 
 ```text
 Lundi        64 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.0% 
@@ -79,7 +79,7 @@ dimanche     103 commits    █████░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **Cette semaine, je passe mon temps** 
 
 ```text
 ⌚︎ fuseau horaire: Asia/Kolkata
@@ -108,7 +108,7 @@ Windows                  14 hrs 24 mins      ███████████�
 
 ```
 
-**I Mostly Code in Vue** 
+**Je code principalement dans Vue** 
 
 ```text
 Vue                      8 repos             ██████░░░░░░░░░░░░░░░░░░░   24.24% 
