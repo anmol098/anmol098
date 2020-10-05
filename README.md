@@ -47,7 +47,7 @@ const anmol = {
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-636-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-660-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.1%20million%20lines%20of%20code-blue)
 
@@ -55,7 +55,7 @@ const anmol = {
 
 > 🏆 641 Contributions in the Year 2020
  > 
-> 📦 333.3 kB Used in Github's Storage 
+> 📦 333.2 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -92,15 +92,15 @@ Sunday       114 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               19 hrs 52 mins      █████████████████████░░░░   85.64% 
-JSON                     3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.36% 
+JavaScript               18 hrs 20 mins      █████████████████████░░░░   85.31% 
+JSON                     3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.69% 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-WebStorm                 23 hrs 12 mins      █████████████████████████   100.0%
+WebStorm                 21 hrs 30 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  23 hrs 12 mins      █████████████████████████   100.0%
+Windows                  21 hrs 30 mins      █████████████████████████   100.0%
 
 ```
 
