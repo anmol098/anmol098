@@ -47,19 +47,19 @@ const anmol = {
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-837-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-842-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.5%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 644 Contributions in the Year 2020
+> 🏆 647 Contributions in the Year 2020
  > 
 > 📦 333.3 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 32 Public Repositories
+> 📜 33 Public Repositories
  > 
 > 🔑 18 Private Repositories 
 
@@ -68,8 +68,8 @@ const anmol = {
 ```text
 🌞 Morning    71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.34% 
 🌆 Daytime    177 commits    █████████░░░░░░░░░░░░░░░░   35.76% 
-🌃 Evening    145 commits    ███████░░░░░░░░░░░░░░░░░░   29.29% 
-🌙 Night      102 commits    █████░░░░░░░░░░░░░░░░░░░░   20.61%
+🌃 Evening    144 commits    ███████░░░░░░░░░░░░░░░░░░   29.09% 
+🌙 Night      103 commits    █████░░░░░░░░░░░░░░░░░░░░   20.81%
 
 ```
 📅 **I'm Most Productive on Sunday** 
@@ -78,8 +78,8 @@ const anmol = {
 Monday       65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.13% 
 Tuesday      51 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.3% 
 Wednesday    51 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.3% 
-Thursday     85 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.17% 
-Friday       70 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.14% 
+Thursday     84 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.97% 
+Friday       71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.34% 
 Saturday     61 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.32% 
 Sunday       112 commits    █████░░░░░░░░░░░░░░░░░░░░   22.63%
 
