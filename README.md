@@ -47,9 +47,9 @@ const anmol = {
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-701-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-693-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.8%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -92,15 +92,17 @@ Sunday       112 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               25 hrs 10 mins      █████████████████████░░░░   86.59% 
-JSON                     3 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.39% 
+JavaScript               26 hrs 17 mins      █████████████████████░░░░   84.66% 
+JSON                     4 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.66% 
+PHP                      31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.66% 
 TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 🔥 Editors: 
-WebStorm                 29 hrs 4 mins       █████████████████████████   100.0%
+WebStorm                 30 hrs 31 mins      ████████████████████████░   98.34% 
+PhpStorm                 31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.66%
 
 💻 Operating System: 
-Windows                  29 hrs 4 mins       █████████████████████████   100.0%
+Windows                  31 hrs 3 mins       █████████████████████████   100.0%
 
 ```
 
