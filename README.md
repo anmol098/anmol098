@@ -22,7 +22,7 @@ npx anmol
 ```javascript
 const anmol = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "Swift"."PHP"],
+    code: ["Javascript", "Python", "Java", "Swift", "PHP"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
         backEnd: {
