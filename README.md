@@ -22,18 +22,18 @@ npx anmol
 ```javascript
 const anmol = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java", "php"],
+    code: ["Javascript", "Python", "Java", "Swift"."PHP"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
         backEnd: {
-            js: ["node", "fastify", "express", "SuiteScript"],
+            js: ["Node", "Fastify", "Express", "SuiteScript"],
         },
         frontEnd: {
             js: ["Vue", "Nuxt"],
             css: ["materialize", "vuetify", "bootstrap"]
         },
         mobileApp: {
-            native: ["Android Development", "Ios Development"]
+            native: ["Android Development", "IOS Development"]
         },
         devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
         databases: ["mongo", "MySql", "sqlite"],
