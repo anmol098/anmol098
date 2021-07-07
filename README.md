@@ -28,10 +28,6 @@ const anmol = {
         backEnd: {
             js: ["Node", "Fastify", "Express", "SuiteScript"],
         },
-        frontEnd: {
-            js: ["Vue", "Nuxt"],
-            css: ["materialize", "vuetify", "bootstrap"]
-        },
         mobileApp: {
             native: ["Android Development", "IOS Development"]
         },
