@@ -45,7 +45,7 @@ const anmol = {
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1014-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-985-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-874599%20lines%20of%20code-blue)
 
@@ -98,14 +98,12 @@ Docker                   32 mins             █░░░░░░░░░░�
 
 🔥 Editors: 
 Xcode                    4 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   37.85% 
-CLion                    3 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   33.67% 
-PyCharm                  3 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   28.06% 
-WebStorm                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.4% 
-PhpStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+CLion                    3 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   33.68% 
+PyCharm                  3 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   28.07% 
+WebStorm                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.4%
 
 💻 Operating System: 
-Mac                      11 hrs 17 mins      █████████████████████████   99.98% 
-Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+Mac                      11 hrs 17 mins      █████████████████████████   100.0%
 
 ```
 
@@ -126,7 +124,7 @@ Dart                     4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/anmol098/anmol098/master/charts/bar_graph.png) 
 
 
- Last Updated on 25/07/2021
+ Last Updated on 26/07/2021
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
