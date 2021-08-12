@@ -45,7 +45,7 @@ const anmol = {
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1192-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1206-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-874599%20lines%20of%20code-blue)
 
@@ -53,7 +53,7 @@ const anmol = {
 
 > 🏆 164 Contributions in the Year 2021
  > 
-> 📦 202.6 kB Used in Github's Storage 
+> 📦 202.9 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -90,18 +90,18 @@ Sunday       104 commits    ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-SQL                      1 hr 30 mins        ██████████░░░░░░░░░░░░░░░   43.39% 
-Python                   1 hr 27 mins        ██████████░░░░░░░░░░░░░░░   41.75% 
-JSON                     26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.8% 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.26% 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.78%
+SQL                      2 hrs 30 mins       ████████████░░░░░░░░░░░░░   49.86% 
+Python                   1 hr 49 mins        █████████░░░░░░░░░░░░░░░░   36.26% 
+JSON                     37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.44% 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.88% 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.54%
 
 🔥 Editors: 
-PyCharm                  1 hr 58 mins        ██████████████░░░░░░░░░░░   56.61% 
-DataGrip                 1 hr 30 mins        ██████████░░░░░░░░░░░░░░░   43.39%
+PyCharm                  2 hrs 31 mins       ████████████░░░░░░░░░░░░░   50.14% 
+DataGrip                 2 hrs 30 mins       ████████████░░░░░░░░░░░░░   49.86%
 
 💻 Operating System: 
-Mac                      3 hrs 29 mins       █████████████████████████   100.0%
+Mac                      5 hrs 1 min         █████████████████████████   100.0%
 
 ```
 
@@ -122,7 +122,7 @@ Dart                     4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/anmol098/anmol098/master/charts/bar_graph.png) 
 
 
- Last Updated on 11/08/2021
+ Last Updated on 12/08/2021
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
