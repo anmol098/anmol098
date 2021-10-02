@@ -45,7 +45,7 @@ const anmol = {
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1005-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1012-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-875711%20lines%20of%20code-blue)
 
@@ -90,17 +90,16 @@ Sunday       102 commits    ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               4 hrs 10 mins       ███████████████████████░░   92.37% 
-XML                      20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.63% 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+JavaScript               4 hrs 10 mins       ███████████████████████░░   92.14% 
+XML                      20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.61% 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25%
 
 🔥 Editors: 
-WebStorm                 4 hrs 31 mins       █████████████████████████   100.0% 
-PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+WebStorm                 4 hrs 31 mins       █████████████████████████   99.75% 
+DataGrip                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25%
 
 💻 Operating System: 
-Mac                      4 hrs 31 mins       █████████████████████████   100.0%
+Mac                      4 hrs 32 mins       █████████████████████████   100.0%
 
 ```
 
@@ -121,7 +120,7 @@ Dart                     4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/anmol098/anmol098/master/charts/bar_graph.png) 
 
 
- Last Updated on 01/10/2021
+ Last Updated on 02/10/2021
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
