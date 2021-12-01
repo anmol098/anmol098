@@ -45,13 +45,13 @@ const anmol = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-990 hrs 43 mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-990%20hrs%2047%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-820-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-817-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 147 Contributions in the Year 2021
+> 🏆 149 Contributions in the Year 2021
  > 
 > 📦 158.3 kB Used in GitHub's Storage 
  > 
@@ -75,8 +75,8 @@ const anmol = {
 ```text
 Monday       31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.27% 
 Tuesday      31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.27% 
-Wednesday    66 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.6% 
-Thursday     50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+Wednesday    67 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.87% 
+Thursday     49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.07% 
 Friday       51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.6% 
 Saturday     53 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.13% 
 Sunday       93 commits     ██████░░░░░░░░░░░░░░░░░░░   24.8%
