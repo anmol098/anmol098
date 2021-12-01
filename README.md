@@ -45,7 +45,7 @@ const anmol = {
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-823-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-820-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-939553%20lines%20of%20code-blue)
 
@@ -65,9 +65,9 @@ const anmol = {
 
 ```text
 🌞 Morning    52 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.87% 
-🌆 Daytime    146 commits    █████████░░░░░░░░░░░░░░░░   38.93% 
+🌆 Daytime    147 commits    █████████░░░░░░░░░░░░░░░░   39.2% 
 🌃 Evening    121 commits    ████████░░░░░░░░░░░░░░░░░   32.27% 
-🌙 Night      56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.93%
+🌙 Night      55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.67%
 
 ```
 📅 **I'm Most Productive on Sunday** 
