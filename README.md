@@ -45,9 +45,9 @@ const anmol = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-991%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-991%20hrs%2030%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-817-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-829-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-940%20Thousand%20lines%20of%20code-blue)
 
@@ -77,8 +77,8 @@ const anmol = {
 ```text
 Monday       31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.27% 
 Tuesday      31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.27% 
-Wednesday    72 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.2% 
-Thursday     48 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.8% 
+Wednesday    73 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.47% 
+Thursday     47 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.53% 
 Friday       51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.6% 
 Saturday     53 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.13% 
 Sunday       89 commits     ██████░░░░░░░░░░░░░░░░░░░   23.73%
