@@ -51,9 +51,9 @@ const anmol = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C043%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C044%20hrs%2024%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-859-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-874-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-941%20Thousand%20lines%20of%20code-blue)
 
@@ -98,18 +98,18 @@ Sunday       74 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               15 hrs 44 mins      ████████████████████░░░░░   79.52% 
-XML                      1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.37% 
-Java                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.78% 
-HTML                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.0% 
-Other                    20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.76%
+JavaScript               12 hrs 36 mins      ████████████████████░░░░░   79.82% 
+XML                      1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.24% 
+Java                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.99% 
+Kotlin                   19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.1% 
+JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.3%
 
 🔥 Editors: 
-WebStorm                 16 hrs 56 mins      █████████████████████░░░░   85.6% 
-Android Studio           2 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.4%
+WebStorm                 12 hrs 56 mins      ████████████████████░░░░░   81.95% 
+Android Studio           2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.05%
 
 💻 Operating System: 
-Mac                      19 hrs 47 mins      █████████████████████████   100.0%
+Mac                      15 hrs 47 mins      █████████████████████████   100.0%
 
 ```
 
@@ -130,7 +130,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/anmol098/anmol098/master/charts/bar_graph.png) 
 
 
- Last Updated on 17/12/2021
+ Last Updated on 18/12/2021
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
