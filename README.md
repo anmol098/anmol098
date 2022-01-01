@@ -51,15 +51,15 @@ const anmol = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C074%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C075%20hrs%2035%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-932-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-909-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 176 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2022
  > 
 > 📦 159.1 kB Used in GitHub's Storage 
  > 
@@ -98,20 +98,20 @@ Sunday       78 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               8 hrs 7 mins        ████████████████████░░░░░   82.65% 
-Text                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.65% 
-Python                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.64% 
-Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.03% 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.04%
+JavaScript               8 hrs 20 mins       █████████████████████░░░░   86.51% 
+JSON                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.86% 
+Python                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.73% 
+Text                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.78% 
+TypeScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.93%
 
 🔥 Editors: 
-WebStorm                 8 hrs 21 mins       █████████████████████░░░░   85.14% 
-Android Studio           57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.7% 
-PyCharm                  27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.64% 
-DataGrip                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52%
+WebStorm                 8 hrs 56 mins       ███████████████████████░░   92.84% 
+PyCharm                  27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.73% 
+Android Studio           10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.9% 
+DataGrip                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.53%
 
 💻 Operating System: 
-Mac                      9 hrs 49 mins       █████████████████████████   100.0%
+Mac                      9 hrs 38 mins       █████████████████████████   100.0%
 
 ```
 
@@ -132,7 +132,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/anmol098/anmol098/master/charts/bar_graph.png) 
 
 
- Last Updated on 31/12/2021
+ Last Updated on 01/01/2022
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
