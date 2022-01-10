@@ -1,6 +1,6 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="http://www.cleartax.in">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Engineer at <a href="https://www.footloose.io/">Footloose.io</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
@@ -28,21 +28,21 @@ npx anmol
 ```javascript
 const anmol = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "Swift", "PHP"],
+    code: ["Javascript", "Python", "Java", "PHP"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
         backEnd: {
-            js: ["Node", "Fastify", "Express", "SuiteScript"],
+            js: ["Node", "Fastify", "Express"],
         },
         mobileApp: {
-            native: ["Android Development", "IOS Development"]
+            native: ["Android Development"]
         },
         devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
         databases: ["mongo", "MySql", "sqlite"],
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Ios Mobile App Development",
+    currentFocus: "Building Robots to ease opertations",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
