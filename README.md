@@ -51,9 +51,9 @@ const anmol = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C129%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C134%20hrs%2019%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-950-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-971-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -98,18 +98,19 @@ Sunday       81 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               24 hrs 6 mins       █████████████████████░░░░   83.61% 
-HTML                     1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.38% 
-JSON                     56 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.24% 
-Other                    47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.74% 
-Markdown                 34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.01%
+JavaScript               23 hrs 25 mins      ████████████████████░░░░░   82.53% 
+HTML                     1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.68% 
+JSON                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   3.77% 
+Other                    53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.14% 
+Markdown                 34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.05%
 
 🔥 Editors: 
-WebStorm                 28 hrs 41 mins      █████████████████████████   99.5% 
-DataGrip                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.5%
+WebStorm                 28 hrs 14 mins      ████████████████████████░   99.48% 
+DataGrip                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.5% 
+PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 💻 Operating System: 
-Mac                      28 hrs 50 mins      █████████████████████████   100.0%
+Mac                      28 hrs 23 mins      █████████████████████████   100.0%
 
 ```
 
@@ -130,7 +131,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/anmol098/anmol098/master/charts/bar_graph.png) 
 
 
- Last Updated on 18/01/2022
+ Last Updated on 19/01/2022
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
