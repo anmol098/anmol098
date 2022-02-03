@@ -51,9 +51,7 @@ const anmol = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C173%20hrs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1186-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1166-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -131,7 +129,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/anmol098/anmol098/master/charts/bar_graph.png) 
 
 
- Last Updated on 02/02/2022 01:15:02 UTC
+ Last Updated on 03/02/2022 01:11:25 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
