@@ -18,8 +18,4 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_LINES_OF_CODE: "True"
           SHOW_LOC_CHART: "False"
-          SHOW_TIMEZONE: "False"
-          SHOW_LANGUAGE: "False"
-          SHOW_EDITORS: "False"
-          SHOW_OS: "False"
           LOCALE: "en"
