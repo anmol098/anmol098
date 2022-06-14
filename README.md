@@ -52,9 +52,9 @@ const anmol = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C688%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C694%20hrs%2049%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1400-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1435-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -62,7 +62,7 @@ const anmol = {
 
 > 🏆 497 Contributions in the Year 2022
  > 
-> 📦 168.8 kB Used in GitHub's Storage 
+> 📦 168.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -99,18 +99,18 @@ Sunday       139 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               16 hrs 54 mins      █████████████████████░░░░   85.14% 
-JSON                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.02% 
-HTML                     39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.28% 
-Markdown                 33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.81% 
-Text                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.65%
+JavaScript               13 hrs 48 mins      █████████████████░░░░░░░░   68.52% 
+HTML                     5 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   25.9% 
+JSON                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.75% 
+Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.83% 
+Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.46%
 
 🔥 Editors: 
-WebStorm                 19 hrs 51 mins      █████████████████████████   100.0% 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+WebStorm                 15 hrs 43 mins      ███████████████████░░░░░░   77.97% 
+VS Code                  4 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   22.03%
 
 💻 Operating System: 
-Mac                      19 hrs 51 mins      █████████████████████████   100.0%
+Mac                      20 hrs 9 mins       █████████████████████████   100.0%
 
 ```
 
@@ -127,7 +127,7 @@ CSS                      4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 13/06/2022 02:18:36 UTC
+ Last Updated on 14/06/2022 02:20:33 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
