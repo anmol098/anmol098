@@ -52,9 +52,9 @@ const anmol = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C755%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C756%20hrs%2044%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1315-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1307-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -62,7 +62,7 @@ const anmol = {
 
 > 🏆 531 Contributions in the Year 2022
  > 
-> 📦 169.1 kB Used in GitHub's Storage 
+> 📦 169.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -99,17 +99,17 @@ Sunday       139 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               14 hrs 44 mins      █████████████████████░░░░   84.21% 
-YAML                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.02% 
-JSON                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.42% 
-HTML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.48% 
-Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.88%
+JavaScript               15 hrs 7 mins       ████████████████████░░░░░   82.62% 
+JSON                     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.42% 
+YAML                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.71% 
+HTML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.42% 
+Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.84%
 
 🔥 Editors: 
-WebStorm                 17 hrs 30 mins      █████████████████████████   100.0%
+WebStorm                 18 hrs 18 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      17 hrs 30 mins      █████████████████████████   100.0%
+Mac                      18 hrs 18 mins      █████████████████████████   100.0%
 
 ```
 
@@ -126,7 +126,7 @@ CSS                      4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 11/07/2022 02:16:26 UTC
+ Last Updated on 12/07/2022 02:29:46 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
