@@ -54,7 +54,7 @@ const anmol = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C774%20hrs%2055%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1229-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1195-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -99,17 +99,13 @@ Sunday       139 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 7 mins         █████████████████████░░░░   85.18% 
-JSON                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   7.56% 
-HTML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   7.06% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13% 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
+JavaScript               14 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-WebStorm                 1 hr 19 mins        █████████████████████████   100.0%
+WebStorm                 14 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      1 hr 19 mins        █████████████████████████   100.0%
+Mac                      14 mins             █████████████████████████   100.0%
 
 ```
 
@@ -126,7 +122,7 @@ CSS                      4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2022 02:32:20 UTC
+ Last Updated on 28/07/2022 02:19:11 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
