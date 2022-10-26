@@ -52,9 +52,9 @@ const anmol = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C017%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C020%20hrs%201%20min-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1174-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1197-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -99,17 +99,17 @@ Sunday       156 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               11 hrs 54 mins      ████████████████████░░░░░   81.56% 
-Markdown                 1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.98% 
-HTML                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.17% 
-Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.66% 
-YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.61%
+JavaScript               13 hrs 54 mins      █████████████████████░░░░   86.91% 
+Markdown                 1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.31% 
+HTML                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.89% 
+YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.54% 
+Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.54%
 
 🔥 Editors: 
-WebStorm                 14 hrs 36 mins      █████████████████████████   100.0%
+WebStorm                 16 hrs              █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      14 hrs 36 mins      █████████████████████████   100.0%
+Mac                      16 hrs              █████████████████████████   100.0%
 
 ```
 
@@ -126,7 +126,7 @@ Dart                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/10/2022 02:53:27 UTC
+ Last Updated on 26/10/2022 02:31:50 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
