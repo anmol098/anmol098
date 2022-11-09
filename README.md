@@ -54,7 +54,7 @@ const anmol = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C066%20hrs%2016%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1007-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-988-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -99,18 +99,18 @@ Sunday       156 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Vue.js                   23 hrs 21 mins      █████████████████░░░░░░░░   71.02% 
-JavaScript               7 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   22.71% 
+Vue.js                   23 hrs 21 mins      █████████████████░░░░░░░░   71.09% 
+JavaScript               7 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   22.63% 
 JSON                     45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.29% 
 protobuf                 20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.04% 
 Protocol Buffer          20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.02%
 
 🔥 Editors: 
-WebStorm                 32 hrs 53 mins      █████████████████████████   99.99% 
+WebStorm                 32 hrs 51 mins      █████████████████████████   99.99% 
 VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 💻 Operating System: 
-Mac                      32 hrs 53 mins      █████████████████████████   100.0%
+Mac                      32 hrs 51 mins      █████████████████████████   100.0%
 
 ```
 
@@ -127,7 +127,7 @@ Dart                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 08/11/2022 02:10:41 UTC
+ Last Updated on 09/11/2022 02:26:15 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
