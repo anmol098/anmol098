@@ -52,15 +52,15 @@ const anmol = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C159%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C161%20hrs%2040%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1063-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1087-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 776 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2023
  > 
 > 📦 181.5 kB Used in GitHub's Storage 
  > 
@@ -99,18 +99,18 @@ Sunday       175 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     5 hrs 15 mins       ████████████████░░░░░░░░░   65.22% 
-XML                      1 hr 40 mins        █████░░░░░░░░░░░░░░░░░░░░   20.72% 
-JavaScript               46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.64% 
-Protocol Buffer          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.67% 
-Vue.js                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.47%
+Java                     6 hrs 52 mins       █████████████████░░░░░░░░   68.81% 
+XML                      1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.87% 
+JavaScript               57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.56% 
+Protocol Buffer          12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.07% 
+Vue.js                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.18%
 
 🔥 Editors: 
-Android Studio           6 hrs 58 mins       █████████████████████░░░░   86.5% 
-WebStorm                 1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.5%
+Android Studio           8 hrs 39 mins       █████████████████████░░░░   86.56% 
+WebStorm                 1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.44%
 
 💻 Operating System: 
-Mac                      8 hrs 3 mins        █████████████████████████   100.0%
+Mac                      9 hrs 59 mins       █████████████████████████   100.0%
 
 ```
 
@@ -127,7 +127,7 @@ Dart                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2022 01:44:55 UTC
+ Last Updated on 01/01/2023 01:57:48 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
