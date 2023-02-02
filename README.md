@@ -54,7 +54,7 @@ const anmol = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C177%20hrs%2025%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1199-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1191-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -62,7 +62,7 @@ const anmol = {
 
 > 🏆 36 Contributions in the Year 2023
  > 
-> 📦 182.4 kB Used in GitHub's Storage 
+> 📦 182.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -99,14 +99,18 @@ Sunday       164 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               17 mins             █████████████████░░░░░░░░   70.34% 
-Vue.js                   7 mins              ███████░░░░░░░░░░░░░░░░░░   29.66%
+JavaScript               17 mins             ███████████░░░░░░░░░░░░░░   47.0% 
+HTML                     9 mins              ██████░░░░░░░░░░░░░░░░░░░   26.18% 
+Vue.js                   7 mins              █████░░░░░░░░░░░░░░░░░░░░   19.82% 
+XML                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.29% 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.28%
 
 🔥 Editors: 
-WebStorm                 25 mins             █████████████████████████   100.0%
+WebStorm                 37 mins             ████████████████████████░   98.72% 
+DataGrip                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.28%
 
 💻 Operating System: 
-Mac                      25 mins             █████████████████████████   100.0%
+Mac                      37 mins             █████████████████████████   100.0%
 
 ```
 
@@ -123,7 +127,7 @@ Dart                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/02/2023 02:01:53 UTC
+ Last Updated on 02/02/2023 01:52:22 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
