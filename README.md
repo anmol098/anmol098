@@ -54,7 +54,7 @@ const anmol = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C177%20hrs%2025%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1017-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1009-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -99,17 +99,13 @@ Sunday         164 commits       █████░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     9 mins              ███████████████████░░░░░░   78.91 % 
-XML                      2 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-SQL                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 12 mins             ████████████████████████░   96.13 % 
-DataGrip                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 ```
 
@@ -126,7 +122,7 @@ Dart                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 08/02/2023 01:53:00 UTC
+ Last Updated on 09/02/2023 01:50:35 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
