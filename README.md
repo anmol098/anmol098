@@ -54,7 +54,7 @@ const anmol = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C177%20hrs%2025%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1141-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1103-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.4%20million%20lines%20of%20code-blue)
 
@@ -102,6 +102,9 @@ No Activity Tracked This Week
 🔥 Editors: 
 No Activity Tracked This Week
 
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
 💻 Operating System: 
 No Activity Tracked This Week
 ```
@@ -118,8 +121,12 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
+**Timeline**
 
- Last Updated on 24/02/2023 01:42:40 UTC
+![Lines of Code chart](https://raw.githubusercontent.com/anmol098/anmol098/master/assets/bar_graph.png)
+
+
+ Last Updated on 25/02/2023 01:19:09 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
