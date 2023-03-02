@@ -54,7 +54,7 @@ const anmol = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C177%20hrs%2026%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1128-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1122-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.5%20million%20lines%20of%20code-blue)
 
@@ -97,11 +97,13 @@ Sunday                   256 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-GitIgnore file           0 secs              ███████████████░░░░░░░░░░   60.59 % 
-JSON                     0 secs              ██████████░░░░░░░░░░░░░░░   39.41 % 
+SQL                      0 secs              ████████████████░░░░░░░░░   63.91 % 
+GitIgnore file           0 secs              █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
+JSON                     0 secs              ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
 
 🔥 Editors: 
-WebStorm                 0 secs              █████████████████████████   100.00 % 
+DataGrip                 0 secs              ████████████████░░░░░░░░░   63.91 % 
+WebStorm                 0 secs              █████████░░░░░░░░░░░░░░░░   36.09 % 
 
 💻 Operating System: 
 Mac                      0 secs              █████████████████████████   100.00 % 
@@ -120,7 +122,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/03/2023 01:54:19 UTC
+ Last Updated on 02/03/2023 01:51:19 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
