@@ -54,7 +54,7 @@ const anmol = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C177%20hrs%2026%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1280-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1340-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.6%20million%20lines%20of%20code-blue)
 
@@ -62,7 +62,7 @@ const anmol = {
 
 > 📦 182.8 kB Used in GitHub's Storage 
  > 
-> 🏆 86 Contributions in the Year 2023
+> 🏆 87 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -109,17 +109,17 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               35 repos            ████████████░░░░░░░░░░░░░   46.67 % 
-Java                     8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
-Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+JavaScript               36 repos            ████████████░░░░░░░░░░░░░   47.37 % 
+Java                     8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
 ```
 
 
 
 
- Last Updated on 15/03/2023 01:38:45 UTC
+ Last Updated on 16/03/2023 01:39:23 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
