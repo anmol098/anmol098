@@ -54,15 +54,15 @@ const anmol = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C177%20hrs%2026%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1324-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1340-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 182.8 kB Used in GitHub's Storage 
+> 📦 182.9 kB Used in GitHub's Storage 
  > 
-> 🏆 87 Contributions in the Year 2023
+> 🏆 91 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -70,24 +70,24 @@ const anmol = {
  > 
 > 🔑 23 Private Repositories 
  > 
-🕒 **I'm a Night 🦉** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                354 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-🌆 Daytime                978 commits         █████████░░░░░░░░░░░░░░░░   35.49 % 
-🌃 Evening                871 commits         ████████░░░░░░░░░░░░░░░░░   31.60 % 
-🌙 Night                  553 commits         █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
+🌞 Morning                410 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+🌆 Daytime                1183 commits        █████████░░░░░░░░░░░░░░░░   36.40 % 
+🌃 Evening                1032 commits        ████████░░░░░░░░░░░░░░░░░   31.75 % 
+🌙 Night                  625 commits         █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
 ```
-📅 **I'm Most Productive on Saturday** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   341 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-Tuesday                  361 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
-Wednesday                394 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-Thursday                 383 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-Friday                   373 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-Saturday                 464 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-Sunday                   440 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+Monday                   395 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+Tuesday                  417 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+Wednesday                492 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+Thursday                 435 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+Friday                   413 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+Saturday                 516 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+Sunday                   582 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
 ```
 
 
@@ -100,9 +100,6 @@ Sunday                   440 commits         ████░░░░░░░�
 No Activity Tracked This Week
 
 🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
 No Activity Tracked This Week
 
 💻 Operating System: 
@@ -121,12 +118,8 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/anmol098/anmol098/master/assets/bar_graph.png)
-
-
- Last Updated on 19/03/2023 11:53:19 UTC
+ Last Updated on 20/03/2023 01:41:19 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
