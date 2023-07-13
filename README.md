@@ -54,7 +54,7 @@ const anmol = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C178%20hrs%2041%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1290-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1350-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
 
@@ -119,7 +119,7 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/07/2023 00:32:00 UTC
+ Last Updated on 13/07/2023 00:29:29 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
