@@ -52,9 +52,9 @@ const anmol = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C179%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C183%20hrs%2041%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1309-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1301-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
 
@@ -97,13 +97,18 @@ Sunday                   1002 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               4 hrs 15 mins       ████████████████████████░   95.00 % 
+JavaScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Shell Script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 4 hrs 27 mins       █████████████████████████   99.35 % 
+PyCharm                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -119,7 +124,7 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/08/2023 00:26:36 UTC
+ Last Updated on 10/08/2023 00:26:09 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
