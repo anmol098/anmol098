@@ -52,9 +52,9 @@ const anmol = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C287%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C291%20hrs%204%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1730-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1803-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
 
@@ -97,18 +97,18 @@ Sunday                   1070 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               21 hrs 26 mins      █████████████████████░░░░   85.47 % 
-Python                   2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-YAML                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-JavaScript               18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+TypeScript               22 hrs 13 mins      █████████████████████░░░░   85.29 % 
+Python                   2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+JSON                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+YAML                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Markdown                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 🔥 Editors: 
-WebStorm                 22 hrs 17 mins      ██████████████████████░░░   88.87 % 
-PyCharm                  2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+WebStorm                 22 hrs 59 mins      ██████████████████████░░░   88.21 % 
+PyCharm                  3 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
 
 💻 Operating System: 
-Mac                      25 hrs 4 mins       █████████████████████████   100.00 % 
+Mac                      26 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -124,7 +124,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2023 00:22:27 UTC
+ Last Updated on 15/09/2023 00:23:20 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
