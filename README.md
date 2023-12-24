@@ -54,7 +54,7 @@ const anmol = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C501%20hrs%2033%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1155-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1106-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
 
@@ -97,7 +97,7 @@ Sunday                   1000 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               10 hrs 14 mins      ████████████████░░░░░░░░░   64.58 % 
+TypeScript               10 hrs 14 mins      ████████████████░░░░░░░░░   64.59 % 
 YAML                     4 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   25.38 % 
 JSON                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
 JavaScript               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
@@ -124,7 +124,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/12/2023 00:22:59 UTC
+ Last Updated on 24/12/2023 00:25:58 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
