@@ -54,7 +54,7 @@ const anmol = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C615%20hrs%208%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1636-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1645-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.0%20million%20lines%20of%20code-blue)
 
@@ -97,9 +97,9 @@ Sunday                   905 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-TypeScript               12 hrs 35 mins      ██████████████████████░░░   89.49 % 
+TypeScript               12 hrs 35 mins      ██████████████████████░░░   89.47 % 
 Python                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
-Bash                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Bash                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 JavaScript               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 
@@ -125,7 +125,7 @@ Python                   3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/03/2024 00:24:37 UTC
+ Last Updated on 04/03/2024 00:24:02 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
