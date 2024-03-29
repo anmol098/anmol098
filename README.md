@@ -52,17 +52,15 @@ const anmol = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C658%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C658%20hrs%2059%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1717-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1675-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 185.7 kB Used in GitHub's Storage 
- > 
-> 🏆 16 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -97,19 +95,19 @@ Sunday                   905 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-TypeScript               6 hrs 51 mins       ███████████░░░░░░░░░░░░░░   43.09 % 
-YAML                     2 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
-JavaScript               2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-JSON                     1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-MDX                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+TypeScript               3 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   29.67 % 
+YAML                     2 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
+JavaScript               2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+JSON                     1 hr 49 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+MDX                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
 
 🔥 Editors: 
-WebStorm                 15 hrs 33 mins      ████████████████████████░   97.62 % 
-PyCharm                  15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-DataGrip                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+WebStorm                 12 hrs 39 mins      ████████████████████████░   97.09 % 
+PyCharm                  15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+DataGrip                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 💻 Operating System: 
-Mac                      15 hrs 55 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -125,7 +123,7 @@ TypeScript               4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/03/2024 00:23:46 UTC
+ Last Updated on 29/03/2024 00:23:29 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
