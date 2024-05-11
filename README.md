@@ -52,15 +52,15 @@ const anmol = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C741%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C742%20hrs%2043%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1490-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1492-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 185.8 kB Used in GitHub's Storage 
+> 📦 185.7 kB Used in GitHub's Storage 
  > 
 > 🏆 20 Contributions in the Year 2024
  > 
@@ -97,18 +97,18 @@ Sunday                   906 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-TypeScript               6 hrs 21 mins       █████████████░░░░░░░░░░░░   50.90 % 
-YAML                     4 hrs               ████████░░░░░░░░░░░░░░░░░   32.17 % 
-JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-Text                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-JavaScript               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+TypeScript               9 hrs 13 mins       ███████████████░░░░░░░░░░   59.28 % 
+YAML                     4 hrs               ██████░░░░░░░░░░░░░░░░░░░   25.79 % 
+JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Text                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+JavaScript               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
 
 🔥 Editors: 
-WebStorm                 12 hrs 22 mins      █████████████████████████   99.11 % 
-DataGrip                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+WebStorm                 15 hrs 27 mins      █████████████████████████   99.29 % 
+DataGrip                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 💻 Operating System: 
-Mac                      12 hrs 29 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -124,7 +124,7 @@ Python                   4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/05/2024 00:24:24 UTC
+ Last Updated on 11/05/2024 00:24:46 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
