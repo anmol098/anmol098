@@ -52,9 +52,9 @@ const anmol = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C948%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C957%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1465-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1523-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.1%20million%20lines%20of%20code-blue)
 
@@ -97,18 +97,18 @@ Sunday                   914 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-JavaScript               21 hrs 3 mins       ████████████████░░░░░░░░░   65.42 % 
-Dart                     6 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
-TypeScript               4 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-YAML                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-HTML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+JavaScript               22 hrs 38 mins      █████████████████░░░░░░░░   68.37 % 
+Dart                     5 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+TypeScript               4 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+YAML                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+HTML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 
 🔥 Editors: 
-WebStorm                 25 hrs 56 mins      ████████████████████░░░░░   80.58 % 
-Android Studio           6 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+WebStorm                 27 hrs 57 mins      █████████████████████░░░░   84.40 % 
+Android Studio           5 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
 
 💻 Operating System: 
-Mac                      32 hrs 10 mins      █████████████████████████   100.00 % 
+Mac                      33 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -124,7 +124,7 @@ Python                   4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2024 00:27:33 UTC
+ Last Updated on 25/07/2024 00:26:48 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
