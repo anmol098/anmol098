@@ -52,9 +52,9 @@ const anmol = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C024%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C026%20hrs%2040%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1534-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1392-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.1%20million%20lines%20of%20code-blue)
 
@@ -62,7 +62,7 @@ const anmol = {
 
 > 📦 185.8 kB Used in GitHub's Storage 
  > 
-> 🏆 86 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -97,19 +97,19 @@ Sunday                   916 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-Dart                     10 hrs 47 mins      ███████████████████░░░░░░   75.14 % 
-JavaScript               1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-TypeScript               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-HTML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
-Bash                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+Dart                     12 hrs 12 mins      ███████████████████░░░░░░   75.29 % 
+JavaScript               2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+TypeScript               1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+HTML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Bash                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 
 🔥 Editors: 
-Android Studio           10 hrs 52 mins      ███████████████████░░░░░░   75.78 % 
-WebStorm                 3 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
+Android Studio           12 hrs 18 mins      ███████████████████░░░░░░   75.95 % 
+WebStorm                 3 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
 PhpStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      14 hrs 21 mins      █████████████████████████   100.00 % 
+Mac                      16 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -125,7 +125,7 @@ Python                   4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/08/2024 00:30:10 UTC
+ Last Updated on 19/08/2024 00:28:15 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
