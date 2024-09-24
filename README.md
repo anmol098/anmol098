@@ -69,15 +69,13 @@ const anmol = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C082%20hrs%2057%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1171-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1112-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 251.1 kB Used in GitHub's Storage 
- > 
-> 🏆 313 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -112,18 +110,18 @@ Sunday                   919 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-Dart                     1 hr 35 mins        ███████████░░░░░░░░░░░░░░   42.60 % 
-JSON                     39 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
-Markdown                 37 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
-JavaScript               30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-GitIgnore file           19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+JSON                     39 mins             ███████░░░░░░░░░░░░░░░░░░   29.55 % 
+Markdown                 37 mins             ███████░░░░░░░░░░░░░░░░░░   28.27 % 
+JavaScript               30 mins             ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
+GitIgnore file           19 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+Dart                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
 
 🔥 Editors: 
-WebStorm                 2 hrs 8 mins        ██████████████░░░░░░░░░░░   57.35 % 
-Android Studio           1 hr 35 mins        ███████████░░░░░░░░░░░░░░   42.65 % 
+WebStorm                 2 hrs 8 mins        ████████████████████████░   96.42 % 
+Android Studio           4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
 
 💻 Operating System: 
-Mac                      3 hrs 43 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -139,7 +137,7 @@ Dart                     5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2024 00:31:50 UTC
+ Last Updated on 24/09/2024 00:30:30 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
