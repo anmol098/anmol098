@@ -67,9 +67,9 @@ const anmol = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C174%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C180%20hrs%202%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-907-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-882-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.7%20million%20lines%20of%20code-blue)
 
@@ -112,18 +112,18 @@ Sunday                   927 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-TypeScript               19 hrs 7 mins       ███████████░░░░░░░░░░░░░░   44.26 % 
-YAML                     13 hrs 59 mins      ████████░░░░░░░░░░░░░░░░░   32.40 % 
-Text                     3 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
-Docker                   2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
-JavaScript               1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+TypeScript               22 hrs 18 mins      ██████████████░░░░░░░░░░░   54.24 % 
+YAML                     9 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   23.92 % 
+Text                     2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+JavaScript               1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+Docker                   1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
 
 🔥 Editors: 
-WebStorm                 43 hrs 8 mins       █████████████████████████   99.88 % 
-DataGrip                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+WebStorm                 41 hrs 4 mins       █████████████████████████   99.87 % 
+DataGrip                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 💻 Operating System: 
-Mac                      43 hrs 11 mins      █████████████████████████   100.00 % 
+Mac                      41 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -139,7 +139,7 @@ Dart                     5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2024 00:31:21 UTC
+ Last Updated on 23/10/2024 00:30:56 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
