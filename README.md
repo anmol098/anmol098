@@ -67,17 +67,15 @@ const anmol = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C390%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C396%20hrs%209%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-952-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-979-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 251.1 kB Used in GitHub's Storage 
- > 
-> 🏆 199 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -112,17 +110,17 @@ Sunday                   943 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-TypeScript               32 hrs 30 mins      ████████████████████░░░░░   81.91 % 
-JSON                     3 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
-JavaScript               58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-TSConfig                 34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-Docker                   31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+TypeScript               30 hrs 43 mins      ████████████████████░░░░░   79.29 % 
+JSON                     2 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+JavaScript               1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+Text                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+Docker                   32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 
 🔥 Editors: 
-WebStorm                 39 hrs 41 mins      █████████████████████████   100.00 % 
+WebStorm                 38 hrs 45 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      39 hrs 41 mins      █████████████████████████   100.00 % 
+Mac                      38 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -138,7 +136,7 @@ Dart                     5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 26/11/2024 00:32:20 UTC
+ Last Updated on 27/11/2024 00:32:30 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
