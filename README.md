@@ -67,9 +67,9 @@ const anmol = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C445%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C453%20hrs%2016%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-779-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-749-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.7%20million%20lines%20of%20code-blue)
 
@@ -77,12 +77,55 @@ const anmol = {
 
 > 📦 251.1 kB Used in GitHub's Storage 
  > 
+> 🏆 199 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 22 Public Repositories 
  > 
 > 🔑 29 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                767 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+🌆 Daytime                1862 commits        ██████████░░░░░░░░░░░░░░░   40.40 % 
+🌃 Evening                1355 commits        ███████░░░░░░░░░░░░░░░░░░   29.40 % 
+🌙 Night                  625 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   585 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+Tuesday                  642 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+Wednesday                737 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+Thursday                 616 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Friday                   487 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+Saturday                 598 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+Sunday                   944 commits         █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dubai
+
+💬 Programming Languages: 
+TypeScript               29 hrs 15 mins      ██████████████████████░░░   87.97 % 
+SCSS                     1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+JavaScript               1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+CSS                      36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+HTML                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+
+🔥 Editors: 
+WebStorm                 33 hrs 14 mins      █████████████████████████   99.97 % 
+DataGrip                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+
+💻 Operating System: 
+Mac                      33 hrs 15 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -96,7 +139,7 @@ Dart                     5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 08/12/2024 00:35:42 UTC
+ Last Updated on 09/12/2024 00:35:02 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
