@@ -68,9 +68,9 @@ const anmol = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C960%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C961%20hrs%209%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-723-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-706-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.8%20million%20lines%20of%20code-blue)
 
@@ -113,17 +113,17 @@ Sunday                   979 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-TypeScript               21 hrs 35 mins      ████████████████████████░   95.59 % 
-SCSS                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+TypeScript               22 hrs 26 mins      ████████████████████████░   95.67 % 
+SCSS                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+JSON                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-WebStorm                 22 hrs 35 mins      █████████████████████████   100.00 % 
+WebStorm                 23 hrs 26 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      22 hrs 35 mins      █████████████████████████   100.00 % 
+Mac                      23 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -139,7 +139,7 @@ Dart                     5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 06/04/2025 00:35:06 UTC
+ Last Updated on 07/04/2025 00:34:12 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
