@@ -70,7 +70,7 @@ const anmol = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%2C023%20hrs%2035%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-733-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-731-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.8%20million%20lines%20of%20code-blue)
 
@@ -141,7 +141,7 @@ Dart                     5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 19/04/2025 00:31:49 UTC
+ Last Updated on 20/04/2025 00:36:21 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
