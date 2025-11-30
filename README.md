@@ -70,7 +70,7 @@ const anmol = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%2C062%20hrs%2012%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-594-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-564-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.4%20million%20lines%20of%20code-blue)
 
@@ -113,16 +113,16 @@ Sunday                   2684 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               2 hrs 28 mins       ███████████████████████░░   92.02 % 
-MDX                      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+TypeScript               1 hr 45 mins        ██████████████████████░░░   89.16 % 
+MDX                      12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-WebStorm                 1 hr 37 mins        ███████████████░░░░░░░░░░   60.52 % 
-VS Code                  1 hr 3 mins         ██████████░░░░░░░░░░░░░░░   39.48 % 
+WebStorm                 1 hr 17 mins        ████████████████░░░░░░░░░   65.27 % 
+VS Code                  41 mins             █████████░░░░░░░░░░░░░░░░   34.73 % 
 
 💻 Operating System: 
-Mac                      2 hrs 41 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 58 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -138,7 +138,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/11/2025 00:39:19 UTC
+ Last Updated on 30/11/2025 00:43:54 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
