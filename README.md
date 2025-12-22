@@ -137,15 +137,15 @@ funFact: "Most bugs disappear after a coffee and a clean commit history"
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%2C068%20hrs%2029%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-667-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-646-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 357.9 kB Used in GitHub's Storage 
+> 📦 357.8 kB Used in GitHub's Storage 
  > 
-> 🏆 850 Contributions in the Year 2025
+> 🏆 856 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -156,21 +156,21 @@ funFact: "Most bugs disappear after a coffee and a clean commit history"
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1057 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-🌆 Daytime                3882 commits        █████████░░░░░░░░░░░░░░░░   37.68 % 
-🌃 Evening                3342 commits        ████████░░░░░░░░░░░░░░░░░   32.44 % 
-🌙 Night                  2021 commits        █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
+🌞 Morning                1061 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+🌆 Daytime                3895 commits        █████████░░░░░░░░░░░░░░░░   37.64 % 
+🌃 Evening                3357 commits        ████████░░░░░░░░░░░░░░░░░   32.44 % 
+🌙 Night                  2036 commits        █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   1196 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-Tuesday                  1404 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-Wednesday                1821 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
-Thursday                 1120 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-Friday                   1007 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-Saturday                 1278 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-Sunday                   2476 commits        ██████░░░░░░░░░░░░░░░░░░░   24.03 % 
+Monday                   1206 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+Tuesday                  1405 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+Wednesday                1828 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
+Thursday                 1126 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+Friday                   1015 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+Saturday                 1287 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+Sunday                   2482 commits        ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
 ```
 
 
@@ -207,7 +207,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/12/2025 00:44:03 UTC
+ Last Updated on 22/12/2025 00:43:20 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
