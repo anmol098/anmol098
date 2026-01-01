@@ -135,17 +135,17 @@ funFact: "Most bugs disappear after a coffee and a clean commit history"
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C070%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C069%20hrs%2035%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-551-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-564-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 357.8 kB Used in GitHub's Storage 
  > 
-> 🏆 861 Contributions in the Year 2025
+> 🏆 3 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -153,31 +153,31 @@ funFact: "Most bugs disappear after a coffee and a clean commit history"
  > 
 > 🔑 32 Private Repositories 
  > 
-**I'm a Night 🦉** 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1133 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-🌆 Daytime                4142 commits        █████████░░░░░░░░░░░░░░░░   37.57 % 
-🌃 Evening                3569 commits        ████████░░░░░░░░░░░░░░░░░   32.37 % 
-🌙 Night                  2181 commits        █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
+🌞 Morning                1996 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+🌆 Daytime                4567 commits        ██████████░░░░░░░░░░░░░░░   40.44 % 
+🌃 Evening                3214 commits        ███████░░░░░░░░░░░░░░░░░░   28.46 % 
+🌙 Night                  1517 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   1283 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-Tuesday                  1495 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-Wednesday                1966 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
-Thursday                 1186 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-Friday                   1073 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-Saturday                 1368 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-Sunday                   2654 commits        ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
+Monday                   1303 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Tuesday                  1682 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Wednesday                1843 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+Thursday                 1293 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+Friday                   1122 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+Saturday                 1390 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+Sunday                   2661 commits        ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Kolkata
+🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
 TypeScript               1 hr 2 mins         ███████████████████░░░░░░   74.80 % 
@@ -207,7 +207,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2025 00:43:15 UTC
+ Last Updated on 01/01/2026 00:47:50 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
