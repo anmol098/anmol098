@@ -137,7 +137,7 @@ funFact: "Most bugs disappear after a coffee and a clean commit history"
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%2C120%20hrs%2041%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-641-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-638-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.82%20million%20lines%20of%20code-blue?style=flat)
 
@@ -180,18 +180,18 @@ Sunday                   1363 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-TypeScript               15 hrs 33 mins      ███████████████████████░░   90.10 % 
-Markdown                 44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-textmate                 20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-TSConfig                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+TypeScript               14 hrs 20 mins      ███████████████████████░░   91.47 % 
+Markdown                 44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+textmate                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-WebStorm                 17 hrs 4 mins       █████████████████████████   98.88 % 
-VS Code                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+WebStorm                 15 hrs 33 mins      █████████████████████████   99.19 % 
+VS Code                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 
 💻 Operating System: 
-Mac                      17 hrs 16 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -207,7 +207,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/01/2026 00:48:39 UTC
+ Last Updated on 31/01/2026 00:47:51 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
