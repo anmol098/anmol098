@@ -135,9 +135,9 @@ funFact: "Most bugs disappear after a coffee and a clean commit history"
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C151%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C152%20hrs%2023%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-621-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-642-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.58%20million%20lines%20of%20code-blue?style=flat)
 
@@ -180,17 +180,17 @@ Sunday                   1682 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-TypeScript               13 hrs 3 mins       ███████████████████░░░░░░   75.90 % 
-Markdown                 1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-JSON                     1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-YAML                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-.env file                14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+TypeScript               11 hrs 7 mins       ██████████████████████░░░   87.25 % 
+JSON                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+.env file                13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+JavaScript               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 
 🔥 Editors: 
-WebStorm                 17 hrs 12 mins      █████████████████████████   100.00 % 
+WebStorm                 12 hrs 44 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      17 hrs 12 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -206,7 +206,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/02/2026 00:58:11 UTC
+ Last Updated on 12/02/2026 00:53:50 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
