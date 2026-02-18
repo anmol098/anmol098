@@ -137,7 +137,7 @@ funFact: "Most bugs disappear after a coffee and a clean commit history"
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%2C165%20hrs%2043%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-581-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-547-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.99%20million%20lines%20of%20code-blue?style=flat)
 
@@ -180,17 +180,17 @@ Sunday                   1799 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-TypeScript               13 hrs 39 mins      ██████████████████████░░░   88.74 % 
-JavaScript               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-JSON                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-DockerIgnore file        5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+TypeScript               13 hrs 10 mins      ███████████████████████░░   90.63 % 
+JavaScript               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+.env file                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🔥 Editors: 
-WebStorm                 15 hrs 23 mins      █████████████████████████   100.00 % 
+WebStorm                 14 hrs 32 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      15 hrs 23 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -206,7 +206,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/02/2026 00:53:06 UTC
+ Last Updated on 18/02/2026 00:53:37 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
