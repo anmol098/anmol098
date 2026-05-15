@@ -135,17 +135,15 @@ funFact: "Most bugs disappear after a coffee and a clean commit history"
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C342%20hrs%2051%20mins-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-664-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-713-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.12%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.51%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 391.0 kB Used in GitHub's Storage 
  > 
-> 🏆 669 Contributions in the Year 2026
+> 🏆 677 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -153,47 +151,6 @@ funFact: "Most bugs disappear after a coffee and a clean commit history"
  > 
 > 🔑 33 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                2164 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-🌆 Daytime                4505 commits        ████████░░░░░░░░░░░░░░░░░   32.67 % 
-🌃 Evening                5101 commits        █████████░░░░░░░░░░░░░░░░   36.99 % 
-🌙 Night                  2021 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   1718 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-Tuesday                  1974 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-Wednesday                1858 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-Thursday                 1588 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
-Friday                   1539 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-Saturday                 2048 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-Sunday                   3066 commits        ██████░░░░░░░░░░░░░░░░░░░   22.23 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Dubai
-
-💬 Programming Languages: 
-TypeScript               4 hrs 22 mins       ██████████████████████░░░   86.15 % 
-Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-YAML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-
-🔥 Editors: 
-WebStorm                 4 hrs 45 mins       ███████████████████████░░   93.50 % 
-Unknown Editor           19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-
-💻 Operating System: 
-Mac                      5 hrs 4 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -207,7 +164,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/05/2026 01:24:05 UTC
+ Last Updated on 15/05/2026 01:24:34 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
