@@ -137,7 +137,7 @@ funFact: "Most bugs disappear after a coffee and a clean commit history"
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%2C354%20hrs%2041%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-478-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-479-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.73%20million%20lines%20of%20code-blue?style=flat)
 
@@ -180,18 +180,13 @@ Sunday                   2923 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-TypeScript               2 hrs 11 mins       ██████████████████████░░░   89.10 % 
-.env file                7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
-Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 2 hrs 4 mins        █████████████████████░░░░   85.02 % 
-Claude Code              22 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 27 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -207,7 +202,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/05/2026 01:27:45 UTC
+ Last Updated on 25/05/2026 01:30:11 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
