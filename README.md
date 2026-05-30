@@ -135,7 +135,9 @@ funFact: "Most bugs disappear after a coffee and a clean commit history"
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-500-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C354%20hrs%2055%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-489-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.73%20million%20lines%20of%20code-blue?style=flat)
 
@@ -143,7 +145,7 @@ funFact: "Most bugs disappear after a coffee and a clean commit history"
 
 > 📦 391.0 kB Used in GitHub's Storage 
  > 
-> 🏆 687 Contributions in the Year 2026
+> 🏆 688 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -151,6 +153,45 @@ funFact: "Most bugs disappear after a coffee and a clean commit history"
  > 
 > 🔑 33 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                2069 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+🌆 Daytime                4355 commits        ████████░░░░░░░░░░░░░░░░░   33.28 % 
+🌃 Evening                4789 commits        █████████░░░░░░░░░░░░░░░░   36.60 % 
+🌙 Night                  1871 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   1631 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+Tuesday                  1879 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+Wednesday                1777 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+Thursday                 1527 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+Friday                   1457 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+Saturday                 1890 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+Sunday                   2923 commits        ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dubai
+
+💬 Programming Languages: 
+.env file                4 mins              ████████░░░░░░░░░░░░░░░░░   30.64 % 
+TypeScript               3 mins              ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
+JSON                     3 mins              ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
+Bash                     2 mins              █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
+
+🔥 Editors: 
+WebStorm                 13 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      13 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -164,7 +205,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/05/2026 01:31:45 UTC
+ Last Updated on 30/05/2026 01:29:06 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
