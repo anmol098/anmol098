@@ -135,9 +135,9 @@ funFact: "Most bugs disappear after a coffee and a clean commit history"
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C354%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C355%20hrs%2012%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-489-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-478-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.73%20million%20lines%20of%20code-blue?style=flat)
 
@@ -180,16 +180,16 @@ Sunday                   2923 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-.env file                4 mins              ████████░░░░░░░░░░░░░░░░░   30.64 % 
-TypeScript               3 mins              ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
-JSON                     3 mins              ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
-Bash                     2 mins              █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
+JSON                     15 mins             ████████████░░░░░░░░░░░░░   49.32 % 
+TypeScript               8 mins              ███████░░░░░░░░░░░░░░░░░░   27.69 % 
+.env file                4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+Bash                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
 
 🔥 Editors: 
-WebStorm                 13 mins             █████████████████████████   100.00 % 
+WebStorm                 30 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      13 mins             █████████████████████████   100.00 % 
+Mac                      30 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -205,7 +205,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/05/2026 01:29:06 UTC
+ Last Updated on 31/05/2026 01:34:29 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
