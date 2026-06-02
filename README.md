@@ -137,7 +137,7 @@ funFact: "Most bugs disappear after a coffee and a clean commit history"
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%2C355%20hrs%2012%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-483-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-526-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.73%20million%20lines%20of%20code-blue?style=flat)
 
@@ -195,17 +195,17 @@ Mac                      30 mins             ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               33 repos            █████████░░░░░░░░░░░░░░░░   36.26 % 
-TypeScript               20 repos            █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
-Python                   6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+JavaScript               33 repos            █████████░░░░░░░░░░░░░░░░   35.87 % 
+TypeScript               20 repos            █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
+Python                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 ```
 
 
 
 
- Last Updated on 01/06/2026 01:35:58 UTC
+ Last Updated on 02/06/2026 01:39:07 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
