@@ -135,9 +135,9 @@ funFact: "Most bugs disappear after a coffee and a clean commit history"
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C368%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C368%20hrs%2026%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-490-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-489-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.63%20million%20lines%20of%20code-blue?style=flat)
 
@@ -180,16 +180,16 @@ Sunday                   3124 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-TypeScript               1 hr 2 mins         ████████████████░░░░░░░░░   63.36 % 
-Markdown                 29 mins             ███████░░░░░░░░░░░░░░░░░░   29.78 % 
-JSON                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+TypeScript               1 hr 8 mins         ███████████████░░░░░░░░░░   60.85 % 
+Markdown                 29 mins             ██████░░░░░░░░░░░░░░░░░░░   25.95 % 
+JSON                     14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
 
 🔥 Editors: 
-Claude Code              1 hr 27 mins        ██████████████████████░░░   89.51 % 
-WebStorm                 10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+Claude Code              1 hr 39 mins        ██████████████████████░░░   88.28 % 
+WebStorm                 13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
 
 💻 Operating System: 
-Mac                      1 hr 37 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 52 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -205,7 +205,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/07/2026 03:53:54 UTC
+ Last Updated on 18/07/2026 03:27:48 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
