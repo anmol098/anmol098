@@ -1,213 +1,141 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Technical Lead at <a href="#">######
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<div align="center">
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
-<a href="https://trendshift.io/developers/2235" target="_blank"><img src="https://trendshift.io/api/badge/developers/2235" alt="anmol098 | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00B8D9&height=200&section=header&text=Ahmed%20Ibrahim&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20|%20Data%20Analyst&descAlignY=58&descSize=20" width="100%"/>
 
-### 📫 Like to meet me?
+</div>
 
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+<div align="center">
 
-<a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00B8D9&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ahmed+Ibrahim+%F0%9F%91%8B;Computer+Science+Student;Junior+Data+Analyst;Power+BI+%7C+SQL+%7C+Python;Turning+Data+Into+Insights+%F0%9F%93%8A;Always+Learning+Something+New+%F0%9F%9A%80)](https://github.com/YOUR_USERNAME)
 
-👇 Hit in your console or terminal to connect with me.
-
-```bash
-npx anmol
-```
-**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const anmol = {
-  name: "Anmol Pratap Singh",
-  pronouns: ["he", "him"],
-  languages: ["TypeScript", "JavaScript", "Python", "Dart"],
-  askMeAbout: [
-    "web development",
-    "mobile app development",
-    "cloud architecture",
-    "generative AI",
-    "agentic systems",
-    "SaaS products",
-    "system design"
-  ],
-
-  technologies: {
-    frontend: {
-      frameworks: ["React", "Next.js"],
-      styling: ["Tailwind CSS", "Sass", "Bootstrap"],
-      uiLibraries: [
-        "Material UI",
-        "Ant Design",
-        "Chakra UI",
-        "shadcn/ui"
-      ]
-    },
-
-    backend: {
-      node: ["Node.js", "Express", "NestJS"],
-      python: ["Flask"]
-    },
-
-    mobile: {
-      crossPlatform: ["Flutter"]
-    },
-
-    devOps: {
-      tools: ["Docker", "GitHub Actions", "Nginx"],
-      practices: ["CI/CD", "Infrastructure as Code"]
-    },
-
-    cloud: {
-      aws: [
-        "EC2",
-        "S3",
-        "RDS",
-        "Lambda",
-        "Fargate",
-        "CloudWatch"
-      ],
-      gcp: [
-        "Compute Engine",
-        "Cloud Run",
-        "Cloud Functions",
-        "Cloud Storage",
-        "Firestore",
-        "BigQuery"
-      ]
-    },
-
-    databases: {
-      relational: ["PostgreSQL"],
-      nosql: ["MongoDB", "Firebase Realtime DB", "Firestore"],
-      inMemory: ["Redis"]
-    },
-
-    realtimeAndAPIs: [
-      "REST APIs",
-      "WebSockets",
-      "Socket.IO"
-    ],
-
-    ai: {
-      generativeAI: [
-        "LLM integration",
-        "Prompt engineering",
-        "Vector databases",
-        "AI agents",
-        "Workflow automation"
-      ],
-      architectures: [
-        "agentic architecture",
-        "tool-augmented agents",
-        "multi-agent systems"
-      ],
-      models: ["OpenAI", "Gemini", "Llama"]
-    }
-  },
-
-  architecture: {
-    frontend: ["SPA", "SSR"],
-    backend: ["monolith", "microservices", "serverless"],
-    cloudPatterns: [
-      "event-driven",
-      "agentic systems",
-      "scalable SaaS"
-    ],
-    data: ["relational", "nosql", "in-memory"]
-  },
-currentFocus:"Building scalable AI-first SaaS products with agentic architectures",
-funFact: "Most bugs disappear after a coffee and a clean commit history"
-};
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+</div>
 
 ---
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C369%20hrs%206%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-430-blue?style=flat)
+# 👨‍💻 About Me
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.63%20million%20lines%20of%20code-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 391.2 kB Used in GitHub's Storage 
- > 
-> 🏆 769 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 26 Public Repositories 
- > 
-> 🔑 33 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2370 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-🌆 Daytime                4643 commits        ████████░░░░░░░░░░░░░░░░░   33.36 % 
-🌃 Evening                4813 commits        █████████░░░░░░░░░░░░░░░░   34.59 % 
-🌙 Night                  2090 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   1632 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
-Tuesday                  2002 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-Wednesday                2012 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-Thursday                 1614 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-Friday                   1480 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-Saturday                 2052 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-Sunday                   3124 commits        ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
+```python
+ahmed = {
+    "name": "Ahmed Ibrahim",
+    "education": "B.Sc. Computer Science - Zagazig University",
+    "role": "Data Analyst",
+    "location": "Egypt 🇪🇬",
+    "learning": [
+        "Power BI",
+        "SQL",
+        "Python",
+        "Excel",
+        "Data Warehousing",
+        "Machine Learning"
+    ],
+    "building": [
+        "E-Commerce Analytics Dashboard",
+        "Data Analysis Portfolio",
+        "Power BI Projects"
+    ],
+    "goal": "Become a Professional Data Analyst and Data Scientist",
+    "interests": [
+        "Business Intelligence",
+        "Data Visualization",
+        "Analytics",
+        "Artificial Intelligence"
+    ]
+}
 ```
 
+---
 
-📊 **This Week I Spent My Time On** 
+# 🛠️ Tech Stack
 
-```text
-🕑︎ Time Zone: Asia/Dubai
+<div align="center">
 
-💬 Programming Languages: 
-TypeScript               44 mins             ████████████████████░░░░░   81.24 % 
-JSON                     9 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+### Programming
 
-🔥 Editors: 
-Claude Code              43 mins             ████████████████████░░░░░   79.93 % 
-WebStorm                 10 mins             █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-💻 Operating System: 
-Mac                      54 mins             █████████████████████████   100.00 % 
-```
+### Data Analysis
 
-**I Mostly Code in JavaScript** 
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge)
 
-```text
-JavaScript               33 repos            █████████░░░░░░░░░░░░░░░░   35.87 % 
-TypeScript               21 repos            ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
-Python                   6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-```
+### Database
 
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
 
+### Python Libraries
 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
- Last Updated on 23/07/2026 04:06:55 UTC
-<!--END_SECTION:waka-->
+### Tools
 
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00B8D9&style=for-the-badge&label=PROFILE+VIEWS)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue)
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark)
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Tools |
+|---------|-------------|-------|
+| 📊 E-Commerce Dashboard | Interactive Power BI Dashboard using TheLook Dataset | Power BI, DAX |
+| 🗄️ SQL Data Warehouse | ETL Pipeline & Star Schema | SQL Server |
+| 📈 Sales Analytics Dashboard | KPI Analysis & Business Insights | Power BI |
+| 🐍 Python Data Analysis | Exploratory Data Analysis using Pandas | Python |
+| 📉 Excel Dashboard | Interactive Business Dashboard | Excel |
+
+---
+
+# 🎯 Currently
+
+- 📊 Building professional Power BI Dashboards
+- 🗄️ Practicing SQL & Database Design
+- 🐍 Improving Python for Data Analysis
+- 🤖 Learning Machine Learning
+- 🚀 Expanding my Data Analytics Portfolio
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B8D9,100:0d1117&height=120&section=footer" width="100%"/>
+
+</div>
