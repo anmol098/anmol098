@@ -1,216 +1,225 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Technical Lead at <a href="#">######
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<h1 align="center">Hi 👋, I'm Min Tay Za</h1>
+<h3 align="center">Computer Science Student | AI & Machine Learning Enthusiast | Software Developer</h3>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
-<a href="https://trendshift.io/developers/2235" target="_blank"><img src="https://trendshift.io/api/badge/developers/2235" alt="anmol098 | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
-
-### 📫 Like to meet me?
-
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
-
-<a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
-
-👇 Hit in your console or terminal to connect with me.
-
-```bash
-npx anmol
-```
-**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const anmol = {
-  name: "Anmol Pratap Singh",
-  pronouns: ["he", "him"],
-  languages: ["TypeScript", "JavaScript", "Python", "Dart"],
-  askMeAbout: [
-    "web development",
-    "mobile app development",
-    "cloud architecture",
-    "generative AI",
-    "agentic systems",
-    "SaaS products",
-    "system design"
-  ],
-
-  technologies: {
-    frontend: {
-      frameworks: ["React", "Next.js"],
-      styling: ["Tailwind CSS", "Sass", "Bootstrap"],
-      uiLibraries: [
-        "Material UI",
-        "Ant Design",
-        "Chakra UI",
-        "shadcn/ui"
-      ]
-    },
-
-    backend: {
-      node: ["Node.js", "Express", "NestJS"],
-      python: ["Flask"]
-    },
-
-    mobile: {
-      crossPlatform: ["Flutter"]
-    },
-
-    devOps: {
-      tools: ["Docker", "GitHub Actions", "Nginx"],
-      practices: ["CI/CD", "Infrastructure as Code"]
-    },
-
-    cloud: {
-      aws: [
-        "EC2",
-        "S3",
-        "RDS",
-        "Lambda",
-        "Fargate",
-        "CloudWatch"
-      ],
-      gcp: [
-        "Compute Engine",
-        "Cloud Run",
-        "Cloud Functions",
-        "Cloud Storage",
-        "Firestore",
-        "BigQuery"
-      ]
-    },
-
-    databases: {
-      relational: ["PostgreSQL"],
-      nosql: ["MongoDB", "Firebase Realtime DB", "Firestore"],
-      inMemory: ["Redis"]
-    },
-
-    realtimeAndAPIs: [
-      "REST APIs",
-      "WebSockets",
-      "Socket.IO"
-    ],
-
-    ai: {
-      generativeAI: [
-        "LLM integration",
-        "Prompt engineering",
-        "Vector databases",
-        "AI agents",
-        "Workflow automation"
-      ],
-      architectures: [
-        "agentic architecture",
-        "tool-augmented agents",
-        "multi-agent systems"
-      ],
-      models: ["OpenAI", "Gemini", "Llama"]
-    }
-  },
-
-  architecture: {
-    frontend: ["SPA", "SSR"],
-    backend: ["monolith", "microservices", "serverless"],
-    cloudPatterns: [
-      "event-driven",
-      "agentic systems",
-      "scalable SaaS"
-    ],
-    data: ["relational", "nosql", "in-memory"]
-  },
-currentFocus:"Building scalable AI-first SaaS products with agentic architectures",
-funFact: "Most bugs disappear after a coffee and a clean commit history"
-};
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Student;AI+%26+Machine+Learning+Developer;Full+Stack+Developer;Computer+Vision+Enthusiast;Always+Learning+New+Technologies" />
+</p>
 
 ---
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C376%20hrs%2035%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-414-blue?style=flat)
+## 👨‍💻 About Me
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.63%20million%20lines%20of%20code-blue?style=flat)
+🎓 Fourth Year Computer Science Student
 
-**🐱 My GitHub Data** 
+🤖 Passionate about Artificial Intelligence, Machine Learning, and Computer Vision
 
-> 📦 391.2 kB Used in GitHub's Storage 
- > 
-> 🏆 782 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 26 Public Repositories 
- > 
-> 🔑 33 Private Repositories 
- > 
-**I'm an Early 🐤** 
+💻 Interested in Full Stack Development, Backend Engineering, and MLOps
 
-```text
-🌞 Morning                2375 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-🌆 Daytime                4640 commits        ████████░░░░░░░░░░░░░░░░░   33.32 % 
-🌃 Evening                4821 commits        █████████░░░░░░░░░░░░░░░░   34.62 % 
-🌙 Night                  2090 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-```
-📅 **I'm Most Productive on Sunday** 
+🌱 Currently learning
 
-```text
-Monday                   1632 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-Tuesday                  2002 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-Wednesday                2009 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-Thursday                 1614 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-Friday                   1482 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-Saturday                 2059 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-Sunday                   3128 commits        ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
-```
+- Deep Learning
+- Computer Vision
+- Spring Boot
+- FastAPI
+- React
+- Docker
+- GitHub Actions
+- MLOps
 
+🚀 I enjoy building AI-powered applications that solve real-world problems.
 
-📊 **This Week I Spent My Time On** 
+---
 
-```text
-🕑︎ Time Zone: Asia/Dubai
+## 🛠️ Tech Stack
 
-💬 Programming Languages: 
-TypeScript               2 hrs 35 mins       █████████████████░░░░░░░░   67.00 % 
-JSON                     55 mins             ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
-Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-MDX                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-Python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+### Languages
 
-🔥 Editors: 
-Claude Code              3 hrs 25 mins       ██████████████████████░░░   88.34 % 
-WebStorm                 26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-DataGrip                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,html,css" />
+</p>
 
-💻 Operating System: 
-Mac                      3 hrs 52 mins       █████████████████████████   100.00 % 
-```
+### Backend
 
-**I Mostly Code in JavaScript** 
+<p>
+<img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,flask" />
+</p>
 
-```text
-JavaScript               33 repos            █████████░░░░░░░░░░░░░░░░   36.26 % 
-TypeScript               20 repos            █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
-Python                   6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-```
+### Frontend
 
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,bootstrap,tailwind" />
+</p>
 
+### Database
 
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" />
+</p>
 
- Last Updated on 27/07/2026 04:22:01 UTC
-<!--END_SECTION:waka-->
+### AI / Machine Learning
 
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+- PyTorch
+- TensorFlow
+- Keras
+- OpenCV
+- Scikit-Learn
+- Pandas
+- NumPy
+- Matplotlib
 
-NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,postman,linux" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### [📄 Smart PDF Lecture Summarizer](https://github.com/minntayza/pdf_summarizer) ⭐ 9
+
+Turn lecture PDFs into summary notes, key exam points, Q&A flashcards, and quizzes — powered by AI (Claude or Gemini). Built with Supabase + Edge Functions.
+
+**Tech:** HTML/CSS/JS · Supabase · Claude API · Gemini API · Vercel
+
+---
+
+### [🛒 PulseCart](https://github.com/minntayza/PulseCart) ⭐ 2
+
+Multi-agent commerce operations copilot — 5 AI agents collaborate in real-time to recommend products, analyze competitors, and power conversational shopping.
+
+**Tech:** Next.js 16 · FastAPI · Supabase · Anthropic API · Tailwind CSS
+
+---
+
+### [🤖 RAG Customer Support Chatbot](https://github.com/minntayza/rag-chatbot)
+
+Enterprise-grade RAG chatbot built with FastAPI, Supabase pgvector, and LangChain — features streaming, RAGAS evaluation, and Prometheus metrics.
+
+**Tech:** FastAPI · Supabase pgvector · LangChain · React · Docker · Redis
+
+---
+
+### [🎤 Speech Emotion Recognition](https://github.com/minntayza/Emotion-Detection)
+
+AI model that detects human emotions from voice using Deep Learning (LSTM + CNN on RAVDESS dataset).
+
+**Tech:** Python · PyTorch · Librosa · MFCC · Mel Spectrogram · LSTM · CNN
+
+---
+
+### [🩺 MedAI — Pneumonia Detection](https://github.com/minntayza/MedAI-Pneumonia-Detection)
+
+Deep learning system that detects pneumonia from chest X-ray images using CNN architectures.
+
+**Tech:** Python · TensorFlow · Keras · Deep Learning · Medical Imaging
+
+---
+
+### [🧠 MedAI — Brain Tumor Classification](https://github.com/minntayza/MedAI-Brain-Tumor-Classification)
+
+Classifies brain tumors from MRI scans using transfer learning on pre-trained models.
+
+**Tech:** Python · TensorFlow · Transfer Learning · MRI Image Processing
+
+---
+
+### [🧘 Stress Tracker](https://github.com/minntayza/stress_tracker) ⭐ 1
+
+Lightweight, privacy-focused stress assessment tool using fuzzy logic and sentiment analysis.
+
+**Tech:** Python · Flask · scikit-fuzzy · SQLite · TextBlob
+
+---
+
+### [🌱 Agriculture Crop Recommendation](https://github.com/minntayza/Agriculture-Crop-Recommendation)
+
+ML-powered system that recommends optimal crops based on soil nutrients and climate conditions.
+
+**Tech:** Python · Scikit-Learn · Pandas · Data Analysis
+
+---
+
+### [📊 Customer Segmentation](https://github.com/minntayza/Data-Analysis-Customer-Segmentation)
+
+Customer segmentation analysis using K-Means clustering on retail transaction data.
+
+**Tech:** Python · Scikit-Learn · Pandas · Matplotlib · Clustering
+
+---
+
+### [🎓 University Registration System](https://github.com/minntayza/University-Registration-System)
+
+Modern university registration platform built with Spring Boot and React.
+
+**Tech:** Spring Boot · React · Supabase · PostgreSQL · JWT Authentication
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=minntayza&show_icons=true&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minntayza&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=minntayza&theme=tokyonight" />
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=minntayza&theme=algolia&margin-w=10&margin-h=10&row=2&column=4" />
+
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+✅ Build production-ready AI applications
+
+✅ Master Computer Vision
+
+✅ Learn MLOps
+
+🔄 Contribute to Open Source
+
+🔄 Secure an AI/ML Software Engineer role
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+<a href="https://github.com/minntayza">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+<a href="https://www.linkedin.com/in/min-tay-za-065a0b285/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+</p>
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile!
+
+If you like my projects, consider giving them a ⭐.
+
+</p>
