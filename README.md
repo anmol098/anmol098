@@ -47,13 +47,13 @@
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,vite,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,vite,nextjs,bootstrap,tailwind" />
 </p>
 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,redis" />
 </p>
 
 ### AI / Machine Learning
@@ -63,6 +63,7 @@
 - Keras
 - OpenCV
 - Scikit-Learn
+- LangChain
 - Pandas
 - NumPy
 - Matplotlib
@@ -77,7 +78,7 @@
 
 ## 🚀 Featured Projects
 
-### [📄 Smart PDF Lecture Summarizer](https://github.com/minntayza/pdf_summarizer) ⭐ 9
+### [📄 Smart PDF Lecture Summarizer](https://github.com/minntayza/pdf_summarizer) ⭐ 10
 
 Turn lecture PDFs into summary notes, key exam points, Q&A flashcards, and quizzes — powered by AI (Claude or Gemini). Built with Supabase + Edge Functions.
 
@@ -97,7 +98,7 @@ Multi-agent commerce operations copilot — 5 AI agents collaborate in real-time
 
 Enterprise-grade RAG chatbot built with FastAPI, Supabase pgvector, and LangChain — features streaming, RAGAS evaluation, and Prometheus metrics.
 
-**Tech:** FastAPI · Supabase pgvector · LangChain · React · Docker · Redis
+**Tech:** TypeScript · React · FastAPI · Supabase pgvector · LangChain · Docker · Redis
 
 ---
 
@@ -109,19 +110,35 @@ AI model that detects human emotions from voice using Deep Learning (LSTM + CNN 
 
 ---
 
-### [🩺 MedAI — Pneumonia Detection](https://github.com/minntayza/MedAI-Pneumonia-Detection)
+### [🩺 Ai-powered Inventory Security System](https://github.com/minntayza/Ai-powered-Inventory-Security-System)
 
-Deep learning system that detects pneumonia from chest X-ray images using CNN architectures.
+Real-time warehouse monitoring system using AI and IoT — tracks inventory via camera, records items automatically, and prevents unauthorized removals.
 
-**Tech:** Python · TensorFlow · Keras · Deep Learning · Medical Imaging
+**Tech:** Python · Computer Vision · IoT · Real-time Monitoring
 
 ---
 
-### [🧠 MedAI — Brain Tumor Classification](https://github.com/minntayza/MedAI-Brain-Tumor-Classification)
+### [🇲🇲 Burmese AAC Communication App](https://github.com/minntayza/AAC_Project)
 
-Classifies brain tumors from MRI scans using transfer learning on pre-trained models.
+Augmentative and Alternative Communication web app for Burmese-speaking autistic children. Build sentences by tapping emoji cards, powered by AI image captioning and Burmese TTS.
 
-**Tech:** Python · TensorFlow · Transfer Learning · MRI Image Processing
+**Tech:** React · TypeScript · Flask · Claude API · edge-tts · Supabase
+
+---
+
+### [🔮 The Quantum Oracle](https://github.com/minntayza/Autonomous-Agent-Pipeline)
+
+5-agent autonomous reasoning system with self-correction loops, local semantic memory (IndexedDB + embeddings), and real-time streaming — all client-side.
+
+**Tech:** Vanilla JS · Vite · Gemini API · IndexedDB · Vector Search
+
+---
+
+### [📊 DevStats — GitHub Portfolio Visualizer](https://github.com/minntayza/github_portfolio_manager)
+
+Analyze any GitHub profile with beautiful charts and AI-powered insights — language distribution, commit history, top repos, and bilingual support (EN + Myanmar).
+
+**Tech:** Next.js 16 · TypeScript · Tailwind CSS · Recharts · GitHub API
 
 ---
 
@@ -130,30 +147,6 @@ Classifies brain tumors from MRI scans using transfer learning on pre-trained mo
 Lightweight, privacy-focused stress assessment tool using fuzzy logic and sentiment analysis.
 
 **Tech:** Python · Flask · scikit-fuzzy · SQLite · TextBlob
-
----
-
-### [🌱 Agriculture Crop Recommendation](https://github.com/minntayza/Agriculture-Crop-Recommendation)
-
-ML-powered system that recommends optimal crops based on soil nutrients and climate conditions.
-
-**Tech:** Python · Scikit-Learn · Pandas · Data Analysis
-
----
-
-### [📊 Customer Segmentation](https://github.com/minntayza/Data-Analysis-Customer-Segmentation)
-
-Customer segmentation analysis using K-Means clustering on retail transaction data.
-
-**Tech:** Python · Scikit-Learn · Pandas · Matplotlib · Clustering
-
----
-
-### [🎓 University Registration System](https://github.com/minntayza/University-Registration-System)
-
-Modern university registration platform built with Spring Boot and React.
-
-**Tech:** Spring Boot · React · Supabase · PostgreSQL · JWT Authentication
 
 ---
 
