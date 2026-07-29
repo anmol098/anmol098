@@ -139,7 +139,7 @@ funFact: "Most bugs disappear after a coffee and a clean commit history"
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-78%20hrs%2010%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-376-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-382-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.63%20million%20lines%20of%20code-blue?style=flat)
 
@@ -159,16 +159,16 @@ funFact: "Most bugs disappear after a coffee and a clean commit history"
 
 ```text
 🌞 Morning                2375 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-🌆 Daytime                4640 commits        ████████░░░░░░░░░░░░░░░░░   33.32 % 
-🌃 Evening                4822 commits        █████████░░░░░░░░░░░░░░░░   34.62 % 
+🌆 Daytime                4640 commits        ████████░░░░░░░░░░░░░░░░░   33.31 % 
+🌃 Evening                4823 commits        █████████░░░░░░░░░░░░░░░░   34.63 % 
 🌙 Night                  2090 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   1633 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+Monday                   1634 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
 Tuesday                  2002 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-Wednesday                2009 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+Wednesday                2009 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
 Thursday                 1614 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
 Friday                   1482 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
 Saturday                 2059 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
@@ -182,42 +182,42 @@ Sunday                   3128 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-TypeScript               2 hrs 36 mins       █████████████░░░░░░░░░░░░   53.23 % 
-JSON                     1 hr 15 mins        ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
-Markdown                 20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
-Python                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
-Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+TypeScript               2 hrs 19 mins       ████████████░░░░░░░░░░░░░   48.79 % 
+JSON                     1 hr 15 mins        ███████░░░░░░░░░░░░░░░░░░   26.50 % 
+Markdown                 24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+Python                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 4 mins        █████████████████████░░░░   83.34 % 
-WebStorm                 29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-VS Code                  18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
-DataGrip                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Claude Code              3 hrs 58 mins       █████████████████████░░░░   83.55 % 
+WebStorm                 23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+VS Code                  18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+DataGrip                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 
 💻 Operating System: 
-Mac                      4 hrs 53 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 26 mins (90.58%)
+⏱ AI Coding Time: 4 hrs 24 mins (92.53%)
 
-✍️ 2,670 lines written by AI, 47 lines written by hand (98.27% AI-written)
+✍️ 2,456 lines written by AI, 40 lines written by hand (98.4% AI-written)
 
-🔤 183,417,294 Input Tokens, 455,049 Output Tokens
+🔤 190,945,590 Input Tokens, 450,359 Output Tokens
 
-💵 $553.78 Estimated AI Cost This Week
+💵 $579.24 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 39 AI Prompts
+🧠 9 AI Sessions, 46 AI Prompts
 
-Sonnet                   2,771 lines         █████████████████████████   100.00 % 
+Sonnet                   2,568 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.27% of written lines came from AI
-📚 Verbose Prompter — average 2,851 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 1.7% of changed lines were hand-edited
+🤖 AI-Driven — 98.4% of written lines came from AI
+📚 Verbose Prompter — average 3,000 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 1.57% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -233,7 +233,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 03:53:41 UTC
+ Last Updated on 29/07/2026 03:54:10 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
