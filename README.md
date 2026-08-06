@@ -135,11 +135,11 @@ funFact: "Most bugs disappear after a coffee and a clean commit history"
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C366%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C370%20hrs%2052%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-90%20hrs%2020%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-94%20hrs%2035%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-489-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-524-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.66%20million%20lines%20of%20code-blue?style=flat)
 
@@ -182,47 +182,46 @@ Sunday                   3135 commits        ██████░░░░░�
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-TypeScript               8 hrs 11 mins       ██████████████░░░░░░░░░░░   57.88 % 
-MDX                      2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
-JSON                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-Markdown                 47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-Other                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+TypeScript               11 hrs 52 mins      ███████████████░░░░░░░░░░   60.31 % 
+MDX                      2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+JSON                     1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+Markdown                 1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+Other                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 56 mins       ██████████████████░░░░░░░   70.16 % 
-WebStorm                 3 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   27.86 % 
-DataGrip                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
-Opencode Cli             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Claude Code              14 hrs 42 mins      ███████████████████░░░░░░   74.70 % 
+WebStorm                 4 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
+DataGrip                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Opencode Cli             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 💻 Operating System: 
-Mac                      14 hrs 9 mins       █████████████████████████   100.00 % 
+Mac                      19 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 9 mins (85.81%)
+⏱ AI Coding Time: 17 hrs 20 mins (88.01%)
 
-✍️ 5,272 lines written by AI, 72 lines written by hand (98.65% AI-written)
+✍️ 14,239 lines written by AI, 72 lines written by hand (99.5% AI-written)
 
-🔤 595,516,301 Input Tokens, 1,031,174 Output Tokens
+🔤 823,352,206 Input Tokens, 1,515,238 Output Tokens
 
-💵 $1800.60 Estimated AI Cost This Week
+💵 $2492.30 Estimated AI Cost This Week
 
-🧠 34 AI Sessions, 103 AI Prompts
+🧠 40 AI Sessions, 124 AI Prompts
 
-Sonnet                   7,314 lines         █████████████████████████   100.00 % 
+Sonnet                   16,454 lines        █████████████████████████   100.00 % 
 Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Bonsai                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Bonsai                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.65% of written lines came from AI
-📚 Verbose Prompter — average 3,675 characters per prompt
+🤖 AI-Driven — 99.5% of written lines came from AI
+📚 Verbose Prompter — average 2,893 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 1.02% of changed lines were hand-edited
+🚀 High AI Trust — 0.45% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -238,7 +237,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 03:50:45 UTC
+ Last Updated on 06/08/2026 04:00:18 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
