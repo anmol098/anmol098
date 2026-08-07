@@ -135,13 +135,13 @@ funFact: "Most bugs disappear after a coffee and a clean commit history"
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C370%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C381%20hrs%2017%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-94%20hrs%2035%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-104%20hrs%2059%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-524-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-530-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.66%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.18%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -155,75 +155,6 @@ funFact: "Most bugs disappear after a coffee and a clean commit history"
  > 
 > 🔑 33 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2383 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
-🌆 Daytime                4654 commits        ████████░░░░░░░░░░░░░░░░░   33.32 % 
-🌃 Evening                4841 commits        █████████░░░░░░░░░░░░░░░░   34.66 % 
-🌙 Night                  2091 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   1645 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-Tuesday                  2008 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-Wednesday                2012 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-Thursday                 1614 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-Friday                   1491 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-Saturday                 2064 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Sunday                   3135 commits        ██████░░░░░░░░░░░░░░░░░░░   22.44 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Dubai
-
-💬 Programming Languages: 
-TypeScript               11 hrs 52 mins      ███████████████░░░░░░░░░░   60.31 % 
-MDX                      2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-JSON                     1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-Markdown                 1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-Other                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-
-🔥 Editors: 
-Claude Code              14 hrs 42 mins      ███████████████████░░░░░░   74.70 % 
-WebStorm                 4 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
-DataGrip                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-Opencode Cli             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-
-💻 Operating System: 
-Mac                      19 hrs 41 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 17 hrs 20 mins (88.01%)
-
-✍️ 14,239 lines written by AI, 72 lines written by hand (99.5% AI-written)
-
-🔤 823,352,206 Input Tokens, 1,515,238 Output Tokens
-
-💵 $2492.30 Estimated AI Cost This Week
-
-🧠 40 AI Sessions, 124 AI Prompts
-
-Sonnet                   16,454 lines        █████████████████████████   100.00 % 
-Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Bonsai                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.5% of written lines came from AI
-📚 Verbose Prompter — average 2,893 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.45% of changed lines were hand-edited
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -237,7 +168,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2026 04:00:18 UTC
+ Last Updated on 07/08/2026 03:34:36 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
