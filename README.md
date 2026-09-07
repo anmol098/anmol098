@@ -139,15 +139,15 @@ funFact: "Most bugs disappear after a coffee and a clean commit history"
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-174%20hrs%2018%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-586-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-588-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-39.38%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-53.63%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 391.5 kB Used in GitHub's Storage 
  > 
-> 🏆 1,170 Contributions in the Year 2026
+> 🏆 1,174 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -155,24 +155,24 @@ funFact: "Most bugs disappear after a coffee and a clean commit history"
  > 
 > 🔑 33 Private Repositories 
  > 
-**I'm an Early 🐤** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                7683 commits        █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
-🌆 Daytime                11769 commits       ████████░░░░░░░░░░░░░░░░░   31.05 % 
-🌃 Evening                13759 commits       █████████░░░░░░░░░░░░░░░░   36.30 % 
-🌙 Night                  4695 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+🌞 Morning                9724 commits        █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
+🌆 Daytime                14214 commits       ███████░░░░░░░░░░░░░░░░░░   28.58 % 
+🌃 Evening                18769 commits       █████████░░░░░░░░░░░░░░░░   37.74 % 
+🌙 Night                  7021 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   7915 commits        █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
-Tuesday                  8146 commits        █████░░░░░░░░░░░░░░░░░░░░   21.49 % 
-Wednesday                4672 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-Thursday                 4357 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-Friday                   3010 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-Saturday                 4471 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-Sunday                   5335 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+Monday                   9282 commits        █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
+Tuesday                  9691 commits        █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
+Wednesday                5992 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+Thursday                 5587 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+Friday                   4450 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+Saturday                 7216 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+Sunday                   7510 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
 ```
 
 
@@ -182,33 +182,33 @@ Sunday                   5335 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-Markdown                 4 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   32.66 % 
-TypeScript               3 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
-Other                    3 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
-HTML                     1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
-JSON                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+Markdown                 4 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   30.14 % 
+TypeScript               3 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
+Other                    3 hrs               ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
+HTML                     1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+JSON                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
 
 🔥 Editors: 
-Claude Code              10 hrs 7 mins       █████████████████░░░░░░░░   69.43 % 
-WebStorm                 4 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   30.55 % 
+Claude Code              10 hrs 1 min        ███████████████████░░░░░░   75.02 % 
+WebStorm                 3 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   24.96 % 
 DataGrip                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Mac                      14 hrs 35 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 54 mins (95.37%)
+⏱ AI Coding Time: 13 hrs 13 mins (98.98%)
 
-✍️ 5,690 lines written by AI, 118 lines written by hand (97.97% AI-written)
+✍️ 5,690 lines written by AI, 2 lines written by hand (99.96% AI-written)
 
-🔤 6,697,765 Input Tokens, 1,878,981 Output Tokens
+🔤 5,374,060 Input Tokens, 1,401,085 Output Tokens
 
-💵 $428.33 Estimated AI Cost This Week
+💵 $415.90 Estimated AI Cost This Week
 
-🧠 928 AI Sessions, 987 AI Prompts
+🧠 683 AI Sessions, 742 AI Prompts
 
 Opus                     4,533 lines         ████████████████████░░░░░   79.53 % 
 Fable                    1,029 lines         █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
@@ -217,10 +217,10 @@ Sonnet                   10 lines            ░░░░░░░░░░░�
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.97% of written lines came from AI
-📚 Verbose Prompter — average 4,486 characters per prompt
+🤖 AI-Driven — 99.96% of written lines came from AI
+📚 Verbose Prompter — average 4,378 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 4.11% of changed lines were hand-edited
+🚀 High AI Trust — 0.23% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -236,7 +236,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/09/2026 04:42:55 UTC
+ Last Updated on 07/09/2026 04:43:45 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
