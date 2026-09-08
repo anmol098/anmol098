@@ -182,45 +182,45 @@ Sunday                   7510 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-Markdown                 4 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   30.14 % 
-TypeScript               3 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
-Other                    3 hrs               ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
-HTML                     1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-JSON                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+Markdown                 3 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   32.75 % 
+Other                    3 hrs               ███████░░░░░░░░░░░░░░░░░░   27.15 % 
+TypeScript               1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
+HTML                     1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+MDX                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
 
 🔥 Editors: 
-Claude Code              10 hrs 1 min        ███████████████████░░░░░░   75.02 % 
-WebStorm                 3 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   24.96 % 
+Claude Code              8 hrs 26 mins       ███████████████████░░░░░░   76.31 % 
+WebStorm                 2 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
 DataGrip                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Mac                      13 hrs 21 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 13 mins (98.98%)
+⏱ AI Coding Time: 10 hrs 55 mins (98.77%)
 
-✍️ 5,690 lines written by AI, 2 lines written by hand (99.96% AI-written)
+✍️ 2,529 lines written by AI, 2 lines written by hand (99.92% AI-written)
 
-🔤 5,374,060 Input Tokens, 1,401,085 Output Tokens
+🔤 4,593,314 Input Tokens, 1,055,528 Output Tokens
 
-💵 $415.90 Estimated AI Cost This Week
+💵 $348.66 Estimated AI Cost This Week
 
-🧠 683 AI Sessions, 742 AI Prompts
+🧠 414 AI Sessions, 470 AI Prompts
 
-Opus                     4,533 lines         ████████████████████░░░░░   79.53 % 
-Fable                    1,029 lines         █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
-K                        128 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-Sonnet                   10 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Opus                     1,372 lines         ██████████████░░░░░░░░░░░   54.04 % 
+Fable                    1,029 lines         ██████████░░░░░░░░░░░░░░░   40.53 % 
+K                        128 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+Sonnet                   10 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.96% of written lines came from AI
-📚 Verbose Prompter — average 4,378 characters per prompt
+🤖 AI-Driven — 99.92% of written lines came from AI
+📚 Verbose Prompter — average 4,074 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.23% of changed lines were hand-edited
+🚀 High AI Trust — 0.51% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -236,7 +236,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2026 04:43:45 UTC
+ Last Updated on 08/09/2026 04:46:42 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
