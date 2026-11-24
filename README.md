@@ -139,7 +139,7 @@ funFact: "Most bugs disappear after a coffee and a clean commit history"
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-258%20hrs%2015%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-291-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-297-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-296.49%20million%20lines%20of%20code-blue?style=flat)
 
@@ -147,7 +147,7 @@ funFact: "Most bugs disappear after a coffee and a clean commit history"
 
 > 📦 400.4 kB Used in GitHub's Storage 
  > 
-> 🏆 4,245 Contributions in the Year 2026
+> 🏆 4,247 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -182,31 +182,31 @@ Sunday                   27629 commits       █████░░░░░░�
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-Markdown                 13 hrs 23 mins      ███████████████░░░░░░░░░░   59.60 % 
-Other                    8 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   37.05 % 
-TypeScript               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Markdown                 12 hrs 28 mins      ███████████████░░░░░░░░░░   61.05 % 
+Other                    7 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   35.27 % 
+TypeScript               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-Claude Code              22 hrs 27 mins      █████████████████████████   100.00 % 
+Claude Code              20 hrs 26 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      22 hrs 27 mins      █████████████████████████   100.00 % 
+Mac                      20 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 hrs 27 mins (100.0%)
+⏱ AI Coding Time: 20 hrs 26 mins (100.0%)
 
 ✍️ 3,572 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 18,985,473 Input Tokens, 3,368,362 Output Tokens
+🔤 16,459,452 Input Tokens, 2,901,410 Output Tokens
 
-💵 $397.88 Estimated AI Cost This Week
+💵 $354.63 Estimated AI Cost This Week
 
-🧠 42 AI Sessions, 272 AI Prompts
+🧠 33 AI Sessions, 216 AI Prompts
 
 Opus                     3,728 lines         ████████████████████████░   95.81 % 
 Sonnet                   163 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
@@ -214,8 +214,8 @@ Fable                    0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,378 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📚 Verbose Prompter — average 2,339 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -232,7 +232,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/11/2026 08:07:53 UTC
+ Last Updated on 24/11/2026 10:38:00 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
